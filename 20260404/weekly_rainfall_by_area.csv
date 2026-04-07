@@ -1,0 +1,3745 @@
+week_start,area,rainfall_mm
+2022-01-03,Ang Mo Kio,208.7
+2022-01-03,Bedok,208.4
+2022-01-03,Bishan,230.3
+2022-01-03,Bukit Batok,199.6
+2022-01-03,Bukit Merah,223.4
+2022-01-03,Bukit Panjang,203.9
+2022-01-03,Clementi,170.0
+2022-01-03,Geylang,198.0
+2022-01-03,Hougang,131.3
+2022-01-03,Jurong East,214.9
+2022-01-03,Jurong West,234.9
+2022-01-03,Kallang,184.0
+2022-01-03,Marine Parade,166.7
+2022-01-03,Pasir Ris,183.1
+2022-01-03,Punggol,161.2
+2022-01-03,Queenstown,153.1
+2022-01-03,Sengkang,179.2
+2022-01-03,Serangoon,232.6
+2022-01-03,Tampines,257.4
+2022-01-03,Toa Payoh,242.9
+2022-01-03,Woodlands,212.7
+2022-01-03,Yishun,222.7
+2022-01-03,Choa Chu Kang,188.0
+2022-01-03,Sembawang,251.9
+2022-01-10,Ang Mo Kio,172.4
+2022-01-10,Bedok,198.4
+2022-01-10,Bishan,179.2
+2022-01-10,Bukit Batok,122.1
+2022-01-10,Bukit Merah,204.2
+2022-01-10,Bukit Panjang,146.8
+2022-01-10,Clementi,149.1
+2022-01-10,Geylang,133.7
+2022-01-10,Hougang,120.0
+2022-01-10,Jurong East,160.4
+2022-01-10,Jurong West,189.3
+2022-01-10,Kallang,174.7
+2022-01-10,Marine Parade,137.6
+2022-01-10,Pasir Ris,152.0
+2022-01-10,Punggol,110.4
+2022-01-10,Queenstown,142.0
+2022-01-10,Sengkang,143.9
+2022-01-10,Serangoon,197.3
+2022-01-10,Tampines,171.5
+2022-01-10,Toa Payoh,152.4
+2022-01-10,Woodlands,174.4
+2022-01-10,Yishun,178.4
+2022-01-10,Choa Chu Kang,146.2
+2022-01-10,Sembawang,198.3
+2022-01-17,Ang Mo Kio,180.6
+2022-01-17,Bedok,165.6
+2022-01-17,Bishan,182.3
+2022-01-17,Bukit Batok,146.3
+2022-01-17,Bukit Merah,167.8
+2022-01-17,Bukit Panjang,144.4
+2022-01-17,Clementi,102.6
+2022-01-17,Geylang,180.4
+2022-01-17,Hougang,130.7
+2022-01-17,Jurong East,135.1
+2022-01-17,Jurong West,183.5
+2022-01-17,Kallang,138.9
+2022-01-17,Marine Parade,144.9
+2022-01-17,Pasir Ris,150.7
+2022-01-17,Punggol,107.4
+2022-01-17,Queenstown,141.8
+2022-01-17,Sengkang,159.7
+2022-01-17,Serangoon,177.3
+2022-01-17,Tampines,180.7
+2022-01-17,Toa Payoh,178.7
+2022-01-17,Woodlands,221.3
+2022-01-17,Yishun,152.0
+2022-01-17,Choa Chu Kang,138.3
+2022-01-17,Sembawang,169.2
+2022-01-24,Ang Mo Kio,187.9
+2022-01-24,Bedok,156.9
+2022-01-24,Bishan,183.0
+2022-01-24,Bukit Batok,104.8
+2022-01-24,Bukit Merah,185.1
+2022-01-24,Bukit Panjang,180.0
+2022-01-24,Clementi,175.8
+2022-01-24,Geylang,164.1
+2022-01-24,Hougang,131.7
+2022-01-24,Jurong East,147.8
+2022-01-24,Jurong West,194.5
+2022-01-24,Kallang,179.4
+2022-01-24,Marine Parade,130.7
+2022-01-24,Pasir Ris,169.8
+2022-01-24,Punggol,143.2
+2022-01-24,Queenstown,177.2
+2022-01-24,Sengkang,140.5
+2022-01-24,Serangoon,171.3
+2022-01-24,Tampines,158.3
+2022-01-24,Toa Payoh,160.2
+2022-01-24,Woodlands,175.4
+2022-01-24,Yishun,193.0
+2022-01-24,Choa Chu Kang,161.3
+2022-01-24,Sembawang,183.1
+2022-01-31,Ang Mo Kio,230.2
+2022-01-31,Bedok,202.6
+2022-01-31,Bishan,240.8
+2022-01-31,Bukit Batok,181.7
+2022-01-31,Bukit Merah,246.7
+2022-01-31,Bukit Panjang,180.7
+2022-01-31,Clementi,168.2
+2022-01-31,Geylang,251.3
+2022-01-31,Hougang,188.9
+2022-01-31,Jurong East,168.5
+2022-01-31,Jurong West,203.9
+2022-01-31,Kallang,201.3
+2022-01-31,Marine Parade,182.8
+2022-01-31,Pasir Ris,195.5
+2022-01-31,Punggol,167.5
+2022-01-31,Queenstown,202.1
+2022-01-31,Sengkang,207.3
+2022-01-31,Serangoon,222.3
+2022-01-31,Tampines,201.1
+2022-01-31,Toa Payoh,233.9
+2022-01-31,Woodlands,223.7
+2022-01-31,Yishun,240.1
+2022-01-31,Choa Chu Kang,221.6
+2022-01-31,Sembawang,217.3
+2022-02-07,Ang Mo Kio,230.2
+2022-02-07,Bedok,169.4
+2022-02-07,Bishan,236.7
+2022-02-07,Bukit Batok,138.5
+2022-02-07,Bukit Merah,229.9
+2022-02-07,Bukit Panjang,242.9
+2022-02-07,Clementi,148.6
+2022-02-07,Geylang,189.6
+2022-02-07,Hougang,172.3
+2022-02-07,Jurong East,171.8
+2022-02-07,Jurong West,171.9
+2022-02-07,Kallang,200.4
+2022-02-07,Marine Parade,141.4
+2022-02-07,Pasir Ris,193.2
+2022-02-07,Punggol,144.3
+2022-02-07,Queenstown,212.8
+2022-02-07,Sengkang,162.3
+2022-02-07,Serangoon,198.4
+2022-02-07,Tampines,207.7
+2022-02-07,Toa Payoh,193.6
+2022-02-07,Woodlands,199.8
+2022-02-07,Yishun,242.4
+2022-02-07,Choa Chu Kang,153.5
+2022-02-07,Sembawang,220.0
+2022-02-14,Ang Mo Kio,95.7
+2022-02-14,Bedok,132.8
+2022-02-14,Bishan,147.2
+2022-02-14,Bukit Batok,79.4
+2022-02-14,Bukit Merah,139.1
+2022-02-14,Bukit Panjang,140.0
+2022-02-14,Clementi,102.4
+2022-02-14,Geylang,133.7
+2022-02-14,Hougang,102.4
+2022-02-14,Jurong East,81.3
+2022-02-14,Jurong West,138.8
+2022-02-14,Kallang,142.1
+2022-02-14,Marine Parade,109.2
+2022-02-14,Pasir Ris,87.6
+2022-02-14,Punggol,79.5
+2022-02-14,Queenstown,83.0
+2022-02-14,Sengkang,118.8
+2022-02-14,Serangoon,144.3
+2022-02-14,Tampines,119.7
+2022-02-14,Toa Payoh,145.5
+2022-02-14,Woodlands,96.0
+2022-02-14,Yishun,128.5
+2022-02-14,Choa Chu Kang,80.4
+2022-02-14,Sembawang,110.2
+2022-02-21,Ang Mo Kio,143.3
+2022-02-21,Bedok,133.5
+2022-02-21,Bishan,146.4
+2022-02-21,Bukit Batok,129.0
+2022-02-21,Bukit Merah,147.6
+2022-02-21,Bukit Panjang,163.5
+2022-02-21,Clementi,108.5
+2022-02-21,Geylang,190.1
+2022-02-21,Hougang,127.6
+2022-02-21,Jurong East,105.7
+2022-02-21,Jurong West,115.6
+2022-02-21,Kallang,144.1
+2022-02-21,Marine Parade,105.4
+2022-02-21,Pasir Ris,138.4
+2022-02-21,Punggol,119.4
+2022-02-21,Queenstown,121.4
+2022-02-21,Sengkang,103.3
+2022-02-21,Serangoon,108.0
+2022-02-21,Tampines,120.3
+2022-02-21,Toa Payoh,164.5
+2022-02-21,Woodlands,136.1
+2022-02-21,Yishun,121.2
+2022-02-21,Choa Chu Kang,128.9
+2022-02-21,Sembawang,153.8
+2022-02-28,Ang Mo Kio,193.2
+2022-02-28,Bedok,148.9
+2022-02-28,Bishan,204.7
+2022-02-28,Bukit Batok,147.5
+2022-02-28,Bukit Merah,209.4
+2022-02-28,Bukit Panjang,196.5
+2022-02-28,Clementi,129.0
+2022-02-28,Geylang,204.5
+2022-02-28,Hougang,168.0
+2022-02-28,Jurong East,147.9
+2022-02-28,Jurong West,184.6
+2022-02-28,Kallang,180.3
+2022-02-28,Marine Parade,143.6
+2022-02-28,Pasir Ris,179.1
+2022-02-28,Punggol,171.9
+2022-02-28,Queenstown,160.1
+2022-02-28,Sengkang,183.2
+2022-02-28,Serangoon,200.0
+2022-02-28,Tampines,173.1
+2022-02-28,Toa Payoh,195.5
+2022-02-28,Woodlands,148.7
+2022-02-28,Yishun,160.3
+2022-02-28,Choa Chu Kang,166.7
+2022-02-28,Sembawang,173.2
+2022-03-07,Ang Mo Kio,163.1
+2022-03-07,Bedok,64.9
+2022-03-07,Bishan,127.4
+2022-03-07,Bukit Batok,58.5
+2022-03-07,Bukit Merah,109.5
+2022-03-07,Bukit Panjang,130.3
+2022-03-07,Clementi,93.1
+2022-03-07,Geylang,88.0
+2022-03-07,Hougang,78.5
+2022-03-07,Jurong East,112.7
+2022-03-07,Jurong West,96.0
+2022-03-07,Kallang,112.8
+2022-03-07,Marine Parade,89.6
+2022-03-07,Pasir Ris,87.1
+2022-03-07,Punggol,131.5
+2022-03-07,Queenstown,111.8
+2022-03-07,Sengkang,56.5
+2022-03-07,Serangoon,115.3
+2022-03-07,Tampines,91.1
+2022-03-07,Toa Payoh,136.0
+2022-03-07,Woodlands,90.5
+2022-03-07,Yishun,115.6
+2022-03-07,Choa Chu Kang,111.3
+2022-03-07,Sembawang,135.2
+2022-03-14,Ang Mo Kio,160.3
+2022-03-14,Bedok,139.7
+2022-03-14,Bishan,168.8
+2022-03-14,Bukit Batok,97.5
+2022-03-14,Bukit Merah,188.9
+2022-03-14,Bukit Panjang,180.4
+2022-03-14,Clementi,138.7
+2022-03-14,Geylang,189.6
+2022-03-14,Hougang,106.1
+2022-03-14,Jurong East,178.5
+2022-03-14,Jurong West,143.4
+2022-03-14,Kallang,129.4
+2022-03-14,Marine Parade,122.0
+2022-03-14,Pasir Ris,180.6
+2022-03-14,Punggol,126.3
+2022-03-14,Queenstown,123.0
+2022-03-14,Sengkang,112.7
+2022-03-14,Serangoon,157.4
+2022-03-14,Tampines,109.2
+2022-03-14,Toa Payoh,143.9
+2022-03-14,Woodlands,182.9
+2022-03-14,Yishun,194.9
+2022-03-14,Choa Chu Kang,142.0
+2022-03-14,Sembawang,159.1
+2022-03-21,Ang Mo Kio,219.4
+2022-03-21,Bedok,171.8
+2022-03-21,Bishan,171.2
+2022-03-21,Bukit Batok,161.6
+2022-03-21,Bukit Merah,203.6
+2022-03-21,Bukit Panjang,170.1
+2022-03-21,Clementi,155.5
+2022-03-21,Geylang,176.2
+2022-03-21,Hougang,158.1
+2022-03-21,Jurong East,179.6
+2022-03-21,Jurong West,217.3
+2022-03-21,Kallang,157.4
+2022-03-21,Marine Parade,191.5
+2022-03-21,Pasir Ris,129.1
+2022-03-21,Punggol,145.8
+2022-03-21,Queenstown,178.1
+2022-03-21,Sengkang,168.5
+2022-03-21,Serangoon,174.9
+2022-03-21,Tampines,170.9
+2022-03-21,Toa Payoh,189.8
+2022-03-21,Woodlands,166.8
+2022-03-21,Yishun,214.9
+2022-03-21,Choa Chu Kang,177.0
+2022-03-21,Sembawang,184.0
+2022-03-28,Ang Mo Kio,203.8
+2022-03-28,Bedok,183.6
+2022-03-28,Bishan,178.7
+2022-03-28,Bukit Batok,170.2
+2022-03-28,Bukit Merah,211.1
+2022-03-28,Bukit Panjang,168.3
+2022-03-28,Clementi,118.7
+2022-03-28,Geylang,159.8
+2022-03-28,Hougang,142.8
+2022-03-28,Jurong East,189.9
+2022-03-28,Jurong West,217.1
+2022-03-28,Kallang,173.7
+2022-03-28,Marine Parade,141.0
+2022-03-28,Pasir Ris,173.7
+2022-03-28,Punggol,149.4
+2022-03-28,Queenstown,185.3
+2022-03-28,Sengkang,152.7
+2022-03-28,Serangoon,206.7
+2022-03-28,Tampines,170.7
+2022-03-28,Toa Payoh,217.1
+2022-03-28,Woodlands,173.6
+2022-03-28,Yishun,186.0
+2022-03-28,Choa Chu Kang,208.5
+2022-03-28,Sembawang,219.6
+2022-04-04,Ang Mo Kio,191.9
+2022-04-04,Bedok,161.3
+2022-04-04,Bishan,229.5
+2022-04-04,Bukit Batok,180.5
+2022-04-04,Bukit Merah,228.3
+2022-04-04,Bukit Panjang,209.5
+2022-04-04,Clementi,166.4
+2022-04-04,Geylang,180.9
+2022-04-04,Hougang,170.0
+2022-04-04,Jurong East,166.3
+2022-04-04,Jurong West,220.2
+2022-04-04,Kallang,194.0
+2022-04-04,Marine Parade,144.4
+2022-04-04,Pasir Ris,175.3
+2022-04-04,Punggol,169.2
+2022-04-04,Queenstown,168.6
+2022-04-04,Sengkang,159.6
+2022-04-04,Serangoon,207.5
+2022-04-04,Tampines,194.2
+2022-04-04,Toa Payoh,205.7
+2022-04-04,Woodlands,183.7
+2022-04-04,Yishun,218.6
+2022-04-04,Choa Chu Kang,154.7
+2022-04-04,Sembawang,185.8
+2022-04-11,Ang Mo Kio,243.7
+2022-04-11,Bedok,252.0
+2022-04-11,Bishan,209.3
+2022-04-11,Bukit Batok,231.0
+2022-04-11,Bukit Merah,255.5
+2022-04-11,Bukit Panjang,238.5
+2022-04-11,Clementi,188.2
+2022-04-11,Geylang,239.9
+2022-04-11,Hougang,229.6
+2022-04-11,Jurong East,233.4
+2022-04-11,Jurong West,253.0
+2022-04-11,Kallang,240.4
+2022-04-11,Marine Parade,166.1
+2022-04-11,Pasir Ris,203.3
+2022-04-11,Punggol,188.1
+2022-04-11,Queenstown,227.1
+2022-04-11,Sengkang,214.7
+2022-04-11,Serangoon,265.1
+2022-04-11,Tampines,238.9
+2022-04-11,Toa Payoh,262.6
+2022-04-11,Woodlands,279.5
+2022-04-11,Yishun,267.4
+2022-04-11,Choa Chu Kang,213.9
+2022-04-11,Sembawang,296.4
+2022-04-18,Ang Mo Kio,251.6
+2022-04-18,Bedok,208.5
+2022-04-18,Bishan,271.6
+2022-04-18,Bukit Batok,165.7
+2022-04-18,Bukit Merah,221.5
+2022-04-18,Bukit Panjang,205.4
+2022-04-18,Clementi,141.5
+2022-04-18,Geylang,209.0
+2022-04-18,Hougang,170.9
+2022-04-18,Jurong East,201.6
+2022-04-18,Jurong West,228.4
+2022-04-18,Kallang,254.9
+2022-04-18,Marine Parade,196.7
+2022-04-18,Pasir Ris,189.1
+2022-04-18,Punggol,159.7
+2022-04-18,Queenstown,208.4
+2022-04-18,Sengkang,168.0
+2022-04-18,Serangoon,260.3
+2022-04-18,Tampines,232.6
+2022-04-18,Toa Payoh,228.9
+2022-04-18,Woodlands,178.9
+2022-04-18,Yishun,263.3
+2022-04-18,Choa Chu Kang,200.5
+2022-04-18,Sembawang,261.0
+2022-04-25,Ang Mo Kio,205.7
+2022-04-25,Bedok,180.8
+2022-04-25,Bishan,207.5
+2022-04-25,Bukit Batok,167.5
+2022-04-25,Bukit Merah,241.9
+2022-04-25,Bukit Panjang,199.3
+2022-04-25,Clementi,157.1
+2022-04-25,Geylang,162.9
+2022-04-25,Hougang,137.8
+2022-04-25,Jurong East,187.1
+2022-04-25,Jurong West,218.0
+2022-04-25,Kallang,223.9
+2022-04-25,Marine Parade,141.2
+2022-04-25,Pasir Ris,172.1
+2022-04-25,Punggol,162.6
+2022-04-25,Queenstown,217.3
+2022-04-25,Sengkang,174.9
+2022-04-25,Serangoon,229.6
+2022-04-25,Tampines,189.0
+2022-04-25,Toa Payoh,234.7
+2022-04-25,Woodlands,209.9
+2022-04-25,Yishun,213.1
+2022-04-25,Choa Chu Kang,159.7
+2022-04-25,Sembawang,204.4
+2022-05-02,Ang Mo Kio,173.3
+2022-05-02,Bedok,167.7
+2022-05-02,Bishan,136.8
+2022-05-02,Bukit Batok,138.3
+2022-05-02,Bukit Merah,184.4
+2022-05-02,Bukit Panjang,113.7
+2022-05-02,Clementi,102.3
+2022-05-02,Geylang,109.5
+2022-05-02,Hougang,122.0
+2022-05-02,Jurong East,150.4
+2022-05-02,Jurong West,181.8
+2022-05-02,Kallang,150.4
+2022-05-02,Marine Parade,154.3
+2022-05-02,Pasir Ris,109.8
+2022-05-02,Punggol,87.6
+2022-05-02,Queenstown,134.9
+2022-05-02,Sengkang,140.8
+2022-05-02,Serangoon,152.5
+2022-05-02,Tampines,101.8
+2022-05-02,Toa Payoh,161.4
+2022-05-02,Woodlands,119.9
+2022-05-02,Yishun,175.2
+2022-05-02,Choa Chu Kang,146.2
+2022-05-02,Sembawang,143.0
+2022-05-09,Ang Mo Kio,194.2
+2022-05-09,Bedok,151.0
+2022-05-09,Bishan,215.5
+2022-05-09,Bukit Batok,132.8
+2022-05-09,Bukit Merah,173.5
+2022-05-09,Bukit Panjang,156.9
+2022-05-09,Clementi,124.5
+2022-05-09,Geylang,156.8
+2022-05-09,Hougang,113.7
+2022-05-09,Jurong East,148.2
+2022-05-09,Jurong West,170.8
+2022-05-09,Kallang,120.8
+2022-05-09,Marine Parade,134.0
+2022-05-09,Pasir Ris,154.4
+2022-05-09,Punggol,146.3
+2022-05-09,Queenstown,176.1
+2022-05-09,Sengkang,165.8
+2022-05-09,Serangoon,158.8
+2022-05-09,Tampines,145.3
+2022-05-09,Toa Payoh,194.0
+2022-05-09,Woodlands,152.3
+2022-05-09,Yishun,156.2
+2022-05-09,Choa Chu Kang,202.7
+2022-05-09,Sembawang,174.6
+2022-05-16,Ang Mo Kio,235.1
+2022-05-16,Bedok,172.0
+2022-05-16,Bishan,208.4
+2022-05-16,Bukit Batok,163.3
+2022-05-16,Bukit Merah,267.4
+2022-05-16,Bukit Panjang,210.2
+2022-05-16,Clementi,156.4
+2022-05-16,Geylang,170.5
+2022-05-16,Hougang,128.6
+2022-05-16,Jurong East,175.6
+2022-05-16,Jurong West,176.3
+2022-05-16,Kallang,159.4
+2022-05-16,Marine Parade,140.6
+2022-05-16,Pasir Ris,151.7
+2022-05-16,Punggol,187.2
+2022-05-16,Queenstown,189.2
+2022-05-16,Sengkang,167.8
+2022-05-16,Serangoon,222.8
+2022-05-16,Tampines,182.1
+2022-05-16,Toa Payoh,188.6
+2022-05-16,Woodlands,214.7
+2022-05-16,Yishun,214.8
+2022-05-16,Choa Chu Kang,154.4
+2022-05-16,Sembawang,200.2
+2022-05-23,Ang Mo Kio,219.7
+2022-05-23,Bedok,141.6
+2022-05-23,Bishan,148.3
+2022-05-23,Bukit Batok,167.8
+2022-05-23,Bukit Merah,195.7
+2022-05-23,Bukit Panjang,180.6
+2022-05-23,Clementi,143.4
+2022-05-23,Geylang,175.0
+2022-05-23,Hougang,143.2
+2022-05-23,Jurong East,150.1
+2022-05-23,Jurong West,173.9
+2022-05-23,Kallang,169.8
+2022-05-23,Marine Parade,129.0
+2022-05-23,Pasir Ris,153.5
+2022-05-23,Punggol,95.5
+2022-05-23,Queenstown,176.3
+2022-05-23,Sengkang,167.0
+2022-05-23,Serangoon,181.5
+2022-05-23,Tampines,176.0
+2022-05-23,Toa Payoh,200.7
+2022-05-23,Woodlands,160.2
+2022-05-23,Yishun,182.8
+2022-05-23,Choa Chu Kang,176.6
+2022-05-23,Sembawang,197.6
+2022-05-30,Ang Mo Kio,192.0
+2022-05-30,Bedok,208.1
+2022-05-30,Bishan,206.1
+2022-05-30,Bukit Batok,186.5
+2022-05-30,Bukit Merah,214.2
+2022-05-30,Bukit Panjang,173.2
+2022-05-30,Clementi,144.5
+2022-05-30,Geylang,212.3
+2022-05-30,Hougang,184.3
+2022-05-30,Jurong East,173.1
+2022-05-30,Jurong West,226.1
+2022-05-30,Kallang,176.1
+2022-05-30,Marine Parade,169.7
+2022-05-30,Pasir Ris,169.0
+2022-05-30,Punggol,158.0
+2022-05-30,Queenstown,192.1
+2022-05-30,Sengkang,169.9
+2022-05-30,Serangoon,207.6
+2022-05-30,Tampines,221.4
+2022-05-30,Toa Payoh,217.9
+2022-05-30,Woodlands,222.0
+2022-05-30,Yishun,204.8
+2022-05-30,Choa Chu Kang,205.8
+2022-05-30,Sembawang,256.2
+2022-06-06,Ang Mo Kio,107.0
+2022-06-06,Bedok,104.0
+2022-06-06,Bishan,142.0
+2022-06-06,Bukit Batok,112.4
+2022-06-06,Bukit Merah,154.7
+2022-06-06,Bukit Panjang,163.8
+2022-06-06,Clementi,109.5
+2022-06-06,Geylang,135.8
+2022-06-06,Hougang,101.3
+2022-06-06,Jurong East,132.6
+2022-06-06,Jurong West,128.4
+2022-06-06,Kallang,125.9
+2022-06-06,Marine Parade,119.0
+2022-06-06,Pasir Ris,142.8
+2022-06-06,Punggol,63.9
+2022-06-06,Queenstown,128.0
+2022-06-06,Sengkang,112.9
+2022-06-06,Serangoon,155.0
+2022-06-06,Tampines,122.2
+2022-06-06,Toa Payoh,171.0
+2022-06-06,Woodlands,116.2
+2022-06-06,Yishun,99.1
+2022-06-06,Choa Chu Kang,144.4
+2022-06-06,Sembawang,126.8
+2022-06-13,Ang Mo Kio,152.4
+2022-06-13,Bedok,123.3
+2022-06-13,Bishan,158.6
+2022-06-13,Bukit Batok,69.1
+2022-06-13,Bukit Merah,153.2
+2022-06-13,Bukit Panjang,150.9
+2022-06-13,Clementi,85.1
+2022-06-13,Geylang,159.7
+2022-06-13,Hougang,122.7
+2022-06-13,Jurong East,115.5
+2022-06-13,Jurong West,150.7
+2022-06-13,Kallang,180.9
+2022-06-13,Marine Parade,114.4
+2022-06-13,Pasir Ris,130.0
+2022-06-13,Punggol,101.5
+2022-06-13,Queenstown,106.8
+2022-06-13,Sengkang,137.8
+2022-06-13,Serangoon,122.3
+2022-06-13,Tampines,131.7
+2022-06-13,Toa Payoh,139.0
+2022-06-13,Woodlands,142.5
+2022-06-13,Yishun,153.9
+2022-06-13,Choa Chu Kang,147.1
+2022-06-13,Sembawang,137.0
+2022-06-20,Ang Mo Kio,127.7
+2022-06-20,Bedok,80.3
+2022-06-20,Bishan,90.7
+2022-06-20,Bukit Batok,68.2
+2022-06-20,Bukit Merah,123.1
+2022-06-20,Bukit Panjang,114.2
+2022-06-20,Clementi,107.9
+2022-06-20,Geylang,115.8
+2022-06-20,Hougang,48.4
+2022-06-20,Jurong East,92.1
+2022-06-20,Jurong West,75.4
+2022-06-20,Kallang,84.4
+2022-06-20,Marine Parade,80.8
+2022-06-20,Pasir Ris,104.1
+2022-06-20,Punggol,59.6
+2022-06-20,Queenstown,40.0
+2022-06-20,Sengkang,88.3
+2022-06-20,Serangoon,150.3
+2022-06-20,Tampines,87.0
+2022-06-20,Toa Payoh,104.8
+2022-06-20,Woodlands,128.5
+2022-06-20,Yishun,114.7
+2022-06-20,Choa Chu Kang,92.7
+2022-06-20,Sembawang,111.7
+2022-06-27,Ang Mo Kio,144.3
+2022-06-27,Bedok,120.3
+2022-06-27,Bishan,135.7
+2022-06-27,Bukit Batok,72.6
+2022-06-27,Bukit Merah,88.8
+2022-06-27,Bukit Panjang,96.5
+2022-06-27,Clementi,84.9
+2022-06-27,Geylang,121.9
+2022-06-27,Hougang,50.9
+2022-06-27,Jurong East,121.1
+2022-06-27,Jurong West,97.8
+2022-06-27,Kallang,90.5
+2022-06-27,Marine Parade,60.7
+2022-06-27,Pasir Ris,58.3
+2022-06-27,Punggol,97.4
+2022-06-27,Queenstown,92.0
+2022-06-27,Sengkang,62.8
+2022-06-27,Serangoon,76.0
+2022-06-27,Tampines,88.5
+2022-06-27,Toa Payoh,142.0
+2022-06-27,Woodlands,92.0
+2022-06-27,Yishun,77.6
+2022-06-27,Choa Chu Kang,87.5
+2022-06-27,Sembawang,102.2
+2022-07-04,Ang Mo Kio,161.5
+2022-07-04,Bedok,124.1
+2022-07-04,Bishan,163.1
+2022-07-04,Bukit Batok,76.1
+2022-07-04,Bukit Merah,127.7
+2022-07-04,Bukit Panjang,145.4
+2022-07-04,Clementi,98.3
+2022-07-04,Geylang,133.0
+2022-07-04,Hougang,115.6
+2022-07-04,Jurong East,126.5
+2022-07-04,Jurong West,124.1
+2022-07-04,Kallang,138.0
+2022-07-04,Marine Parade,94.7
+2022-07-04,Pasir Ris,138.1
+2022-07-04,Punggol,108.1
+2022-07-04,Queenstown,126.4
+2022-07-04,Sengkang,172.1
+2022-07-04,Serangoon,116.8
+2022-07-04,Tampines,157.6
+2022-07-04,Toa Payoh,94.8
+2022-07-04,Woodlands,90.9
+2022-07-04,Yishun,121.9
+2022-07-04,Choa Chu Kang,102.4
+2022-07-04,Sembawang,150.8
+2022-07-11,Ang Mo Kio,81.8
+2022-07-11,Bedok,80.7
+2022-07-11,Bishan,84.8
+2022-07-11,Bukit Batok,120.5
+2022-07-11,Bukit Merah,130.7
+2022-07-11,Bukit Panjang,127.6
+2022-07-11,Clementi,100.8
+2022-07-11,Geylang,80.5
+2022-07-11,Hougang,76.9
+2022-07-11,Jurong East,103.1
+2022-07-11,Jurong West,79.6
+2022-07-11,Kallang,116.4
+2022-07-11,Marine Parade,78.7
+2022-07-11,Pasir Ris,86.8
+2022-07-11,Punggol,97.7
+2022-07-11,Queenstown,102.2
+2022-07-11,Sengkang,84.1
+2022-07-11,Serangoon,128.3
+2022-07-11,Tampines,76.6
+2022-07-11,Toa Payoh,124.3
+2022-07-11,Woodlands,112.0
+2022-07-11,Yishun,104.8
+2022-07-11,Choa Chu Kang,101.8
+2022-07-11,Sembawang,85.9
+2022-07-18,Ang Mo Kio,112.0
+2022-07-18,Bedok,103.4
+2022-07-18,Bishan,159.5
+2022-07-18,Bukit Batok,71.2
+2022-07-18,Bukit Merah,154.4
+2022-07-18,Bukit Panjang,98.8
+2022-07-18,Clementi,132.4
+2022-07-18,Geylang,84.9
+2022-07-18,Hougang,73.6
+2022-07-18,Jurong East,105.1
+2022-07-18,Jurong West,148.9
+2022-07-18,Kallang,126.4
+2022-07-18,Marine Parade,97.1
+2022-07-18,Pasir Ris,144.2
+2022-07-18,Punggol,146.9
+2022-07-18,Queenstown,129.5
+2022-07-18,Sengkang,101.1
+2022-07-18,Serangoon,122.3
+2022-07-18,Tampines,96.4
+2022-07-18,Toa Payoh,141.3
+2022-07-18,Woodlands,92.0
+2022-07-18,Yishun,149.1
+2022-07-18,Choa Chu Kang,158.6
+2022-07-18,Sembawang,152.4
+2022-07-25,Ang Mo Kio,187.7
+2022-07-25,Bedok,179.4
+2022-07-25,Bishan,211.0
+2022-07-25,Bukit Batok,162.1
+2022-07-25,Bukit Merah,149.0
+2022-07-25,Bukit Panjang,143.9
+2022-07-25,Clementi,130.9
+2022-07-25,Geylang,171.6
+2022-07-25,Hougang,155.4
+2022-07-25,Jurong East,140.3
+2022-07-25,Jurong West,176.5
+2022-07-25,Kallang,154.4
+2022-07-25,Marine Parade,126.3
+2022-07-25,Pasir Ris,128.3
+2022-07-25,Punggol,120.1
+2022-07-25,Queenstown,127.8
+2022-07-25,Sengkang,132.0
+2022-07-25,Serangoon,195.5
+2022-07-25,Tampines,144.0
+2022-07-25,Toa Payoh,238.4
+2022-07-25,Woodlands,176.1
+2022-07-25,Yishun,187.9
+2022-07-25,Choa Chu Kang,140.9
+2022-07-25,Sembawang,198.2
+2022-08-01,Ang Mo Kio,105.2
+2022-08-01,Bedok,51.1
+2022-08-01,Bishan,90.5
+2022-08-01,Bukit Batok,59.1
+2022-08-01,Bukit Merah,61.0
+2022-08-01,Bukit Panjang,106.2
+2022-08-01,Clementi,66.1
+2022-08-01,Geylang,92.1
+2022-08-01,Hougang,77.6
+2022-08-01,Jurong East,72.3
+2022-08-01,Jurong West,127.6
+2022-08-01,Kallang,85.5
+2022-08-01,Marine Parade,39.5
+2022-08-01,Pasir Ris,71.8
+2022-08-01,Punggol,80.6
+2022-08-01,Queenstown,89.6
+2022-08-01,Sengkang,55.5
+2022-08-01,Serangoon,107.5
+2022-08-01,Tampines,47.9
+2022-08-01,Toa Payoh,117.6
+2022-08-01,Woodlands,58.4
+2022-08-01,Yishun,89.4
+2022-08-01,Choa Chu Kang,101.9
+2022-08-01,Sembawang,96.3
+2022-08-08,Ang Mo Kio,182.8
+2022-08-08,Bedok,171.8
+2022-08-08,Bishan,183.7
+2022-08-08,Bukit Batok,142.5
+2022-08-08,Bukit Merah,173.3
+2022-08-08,Bukit Panjang,126.1
+2022-08-08,Clementi,143.4
+2022-08-08,Geylang,165.0
+2022-08-08,Hougang,141.8
+2022-08-08,Jurong East,120.0
+2022-08-08,Jurong West,140.8
+2022-08-08,Kallang,180.4
+2022-08-08,Marine Parade,129.4
+2022-08-08,Pasir Ris,160.7
+2022-08-08,Punggol,130.8
+2022-08-08,Queenstown,146.2
+2022-08-08,Sengkang,161.3
+2022-08-08,Serangoon,153.6
+2022-08-08,Tampines,155.1
+2022-08-08,Toa Payoh,165.4
+2022-08-08,Woodlands,147.6
+2022-08-08,Yishun,167.0
+2022-08-08,Choa Chu Kang,153.1
+2022-08-08,Sembawang,163.6
+2022-08-15,Ang Mo Kio,122.4
+2022-08-15,Bedok,114.4
+2022-08-15,Bishan,132.5
+2022-08-15,Bukit Batok,60.6
+2022-08-15,Bukit Merah,116.9
+2022-08-15,Bukit Panjang,139.4
+2022-08-15,Clementi,117.7
+2022-08-15,Geylang,125.3
+2022-08-15,Hougang,74.5
+2022-08-15,Jurong East,120.0
+2022-08-15,Jurong West,135.1
+2022-08-15,Kallang,119.5
+2022-08-15,Marine Parade,121.4
+2022-08-15,Pasir Ris,95.8
+2022-08-15,Punggol,86.7
+2022-08-15,Queenstown,58.6
+2022-08-15,Sengkang,124.4
+2022-08-15,Serangoon,128.2
+2022-08-15,Tampines,80.4
+2022-08-15,Toa Payoh,94.8
+2022-08-15,Woodlands,98.8
+2022-08-15,Yishun,144.7
+2022-08-15,Choa Chu Kang,104.6
+2022-08-15,Sembawang,112.7
+2022-08-22,Ang Mo Kio,101.7
+2022-08-22,Bedok,91.2
+2022-08-22,Bishan,117.8
+2022-08-22,Bukit Batok,99.3
+2022-08-22,Bukit Merah,155.0
+2022-08-22,Bukit Panjang,93.1
+2022-08-22,Clementi,115.4
+2022-08-22,Geylang,109.9
+2022-08-22,Hougang,95.8
+2022-08-22,Jurong East,116.8
+2022-08-22,Jurong West,92.8
+2022-08-22,Kallang,120.7
+2022-08-22,Marine Parade,95.7
+2022-08-22,Pasir Ris,114.2
+2022-08-22,Punggol,98.2
+2022-08-22,Queenstown,152.4
+2022-08-22,Sengkang,88.4
+2022-08-22,Serangoon,105.7
+2022-08-22,Tampines,96.3
+2022-08-22,Toa Payoh,112.8
+2022-08-22,Woodlands,98.2
+2022-08-22,Yishun,146.6
+2022-08-22,Choa Chu Kang,133.9
+2022-08-22,Sembawang,111.4
+2022-08-29,Ang Mo Kio,174.4
+2022-08-29,Bedok,139.1
+2022-08-29,Bishan,149.0
+2022-08-29,Bukit Batok,116.1
+2022-08-29,Bukit Merah,217.7
+2022-08-29,Bukit Panjang,174.3
+2022-08-29,Clementi,114.8
+2022-08-29,Geylang,160.4
+2022-08-29,Hougang,125.9
+2022-08-29,Jurong East,153.8
+2022-08-29,Jurong West,169.4
+2022-08-29,Kallang,177.3
+2022-08-29,Marine Parade,110.2
+2022-08-29,Pasir Ris,145.7
+2022-08-29,Punggol,92.2
+2022-08-29,Queenstown,117.0
+2022-08-29,Sengkang,156.8
+2022-08-29,Serangoon,141.1
+2022-08-29,Tampines,132.8
+2022-08-29,Toa Payoh,170.4
+2022-08-29,Woodlands,166.5
+2022-08-29,Yishun,147.8
+2022-08-29,Choa Chu Kang,75.5
+2022-08-29,Sembawang,151.6
+2022-09-05,Ang Mo Kio,181.8
+2022-09-05,Bedok,188.6
+2022-09-05,Bishan,200.1
+2022-09-05,Bukit Batok,185.8
+2022-09-05,Bukit Merah,206.7
+2022-09-05,Bukit Panjang,170.7
+2022-09-05,Clementi,162.4
+2022-09-05,Geylang,201.8
+2022-09-05,Hougang,168.7
+2022-09-05,Jurong East,172.7
+2022-09-05,Jurong West,202.7
+2022-09-05,Kallang,201.3
+2022-09-05,Marine Parade,173.1
+2022-09-05,Pasir Ris,177.2
+2022-09-05,Punggol,142.1
+2022-09-05,Queenstown,165.5
+2022-09-05,Sengkang,183.2
+2022-09-05,Serangoon,166.7
+2022-09-05,Tampines,178.5
+2022-09-05,Toa Payoh,187.2
+2022-09-05,Woodlands,175.1
+2022-09-05,Yishun,218.9
+2022-09-05,Choa Chu Kang,169.8
+2022-09-05,Sembawang,194.3
+2022-09-12,Ang Mo Kio,212.0
+2022-09-12,Bedok,145.3
+2022-09-12,Bishan,221.5
+2022-09-12,Bukit Batok,157.2
+2022-09-12,Bukit Merah,205.8
+2022-09-12,Bukit Panjang,174.8
+2022-09-12,Clementi,165.5
+2022-09-12,Geylang,185.6
+2022-09-12,Hougang,180.7
+2022-09-12,Jurong East,138.2
+2022-09-12,Jurong West,189.9
+2022-09-12,Kallang,191.0
+2022-09-12,Marine Parade,145.7
+2022-09-12,Pasir Ris,160.7
+2022-09-12,Punggol,142.2
+2022-09-12,Queenstown,170.5
+2022-09-12,Sengkang,127.3
+2022-09-12,Serangoon,207.4
+2022-09-12,Tampines,166.2
+2022-09-12,Toa Payoh,203.0
+2022-09-12,Woodlands,186.7
+2022-09-12,Yishun,188.2
+2022-09-12,Choa Chu Kang,167.9
+2022-09-12,Sembawang,158.0
+2022-09-19,Ang Mo Kio,204.4
+2022-09-19,Bedok,226.2
+2022-09-19,Bishan,180.8
+2022-09-19,Bukit Batok,123.5
+2022-09-19,Bukit Merah,228.2
+2022-09-19,Bukit Panjang,190.1
+2022-09-19,Clementi,148.9
+2022-09-19,Geylang,216.2
+2022-09-19,Hougang,176.2
+2022-09-19,Jurong East,171.5
+2022-09-19,Jurong West,178.4
+2022-09-19,Kallang,217.6
+2022-09-19,Marine Parade,176.6
+2022-09-19,Pasir Ris,182.8
+2022-09-19,Punggol,200.5
+2022-09-19,Queenstown,161.4
+2022-09-19,Sengkang,148.5
+2022-09-19,Serangoon,192.1
+2022-09-19,Tampines,191.5
+2022-09-19,Toa Payoh,224.3
+2022-09-19,Woodlands,191.5
+2022-09-19,Yishun,224.5
+2022-09-19,Choa Chu Kang,161.6
+2022-09-19,Sembawang,246.3
+2022-09-26,Ang Mo Kio,238.3
+2022-09-26,Bedok,199.1
+2022-09-26,Bishan,227.5
+2022-09-26,Bukit Batok,172.6
+2022-09-26,Bukit Merah,246.4
+2022-09-26,Bukit Panjang,226.3
+2022-09-26,Clementi,188.5
+2022-09-26,Geylang,226.1
+2022-09-26,Hougang,162.4
+2022-09-26,Jurong East,200.0
+2022-09-26,Jurong West,240.9
+2022-09-26,Kallang,221.7
+2022-09-26,Marine Parade,152.6
+2022-09-26,Pasir Ris,194.6
+2022-09-26,Punggol,180.7
+2022-09-26,Queenstown,178.4
+2022-09-26,Sengkang,162.3
+2022-09-26,Serangoon,211.7
+2022-09-26,Tampines,188.9
+2022-09-26,Toa Payoh,232.0
+2022-09-26,Woodlands,176.0
+2022-09-26,Yishun,241.5
+2022-09-26,Choa Chu Kang,184.9
+2022-09-26,Sembawang,250.1
+2022-10-03,Ang Mo Kio,164.1
+2022-10-03,Bedok,103.1
+2022-10-03,Bishan,136.9
+2022-10-03,Bukit Batok,149.7
+2022-10-03,Bukit Merah,192.0
+2022-10-03,Bukit Panjang,169.3
+2022-10-03,Clementi,116.7
+2022-10-03,Geylang,161.4
+2022-10-03,Hougang,137.5
+2022-10-03,Jurong East,123.7
+2022-10-03,Jurong West,194.0
+2022-10-03,Kallang,178.4
+2022-10-03,Marine Parade,127.0
+2022-10-03,Pasir Ris,149.0
+2022-10-03,Punggol,135.6
+2022-10-03,Queenstown,106.1
+2022-10-03,Sengkang,138.9
+2022-10-03,Serangoon,151.8
+2022-10-03,Tampines,134.6
+2022-10-03,Toa Payoh,170.7
+2022-10-03,Woodlands,193.7
+2022-10-03,Yishun,187.5
+2022-10-03,Choa Chu Kang,138.6
+2022-10-03,Sembawang,186.2
+2022-10-10,Ang Mo Kio,140.0
+2022-10-10,Bedok,101.7
+2022-10-10,Bishan,167.1
+2022-10-10,Bukit Batok,111.6
+2022-10-10,Bukit Merah,144.8
+2022-10-10,Bukit Panjang,138.5
+2022-10-10,Clementi,94.1
+2022-10-10,Geylang,147.9
+2022-10-10,Hougang,109.2
+2022-10-10,Jurong East,133.1
+2022-10-10,Jurong West,123.3
+2022-10-10,Kallang,151.2
+2022-10-10,Marine Parade,110.1
+2022-10-10,Pasir Ris,158.9
+2022-10-10,Punggol,94.7
+2022-10-10,Queenstown,118.2
+2022-10-10,Sengkang,91.1
+2022-10-10,Serangoon,117.9
+2022-10-10,Tampines,132.5
+2022-10-10,Toa Payoh,159.5
+2022-10-10,Woodlands,181.8
+2022-10-10,Yishun,133.8
+2022-10-10,Choa Chu Kang,97.8
+2022-10-10,Sembawang,150.8
+2022-10-17,Ang Mo Kio,246.7
+2022-10-17,Bedok,217.6
+2022-10-17,Bishan,251.6
+2022-10-17,Bukit Batok,170.6
+2022-10-17,Bukit Merah,245.2
+2022-10-17,Bukit Panjang,195.0
+2022-10-17,Clementi,201.2
+2022-10-17,Geylang,243.5
+2022-10-17,Hougang,185.7
+2022-10-17,Jurong East,240.1
+2022-10-17,Jurong West,208.2
+2022-10-17,Kallang,199.1
+2022-10-17,Marine Parade,191.1
+2022-10-17,Pasir Ris,231.7
+2022-10-17,Punggol,220.3
+2022-10-17,Queenstown,199.4
+2022-10-17,Sengkang,225.8
+2022-10-17,Serangoon,234.2
+2022-10-17,Tampines,216.1
+2022-10-17,Toa Payoh,268.0
+2022-10-17,Woodlands,237.0
+2022-10-17,Yishun,216.6
+2022-10-17,Choa Chu Kang,242.5
+2022-10-17,Sembawang,275.7
+2022-10-24,Ang Mo Kio,218.6
+2022-10-24,Bedok,170.5
+2022-10-24,Bishan,211.4
+2022-10-24,Bukit Batok,157.7
+2022-10-24,Bukit Merah,181.3
+2022-10-24,Bukit Panjang,194.5
+2022-10-24,Clementi,162.3
+2022-10-24,Geylang,218.6
+2022-10-24,Hougang,122.6
+2022-10-24,Jurong East,183.3
+2022-10-24,Jurong West,176.1
+2022-10-24,Kallang,201.9
+2022-10-24,Marine Parade,167.3
+2022-10-24,Pasir Ris,178.7
+2022-10-24,Punggol,175.9
+2022-10-24,Queenstown,153.7
+2022-10-24,Sengkang,197.0
+2022-10-24,Serangoon,187.0
+2022-10-24,Tampines,156.9
+2022-10-24,Toa Payoh,208.8
+2022-10-24,Woodlands,149.8
+2022-10-24,Yishun,217.5
+2022-10-24,Choa Chu Kang,177.1
+2022-10-24,Sembawang,237.1
+2022-10-31,Ang Mo Kio,175.4
+2022-10-31,Bedok,144.3
+2022-10-31,Bishan,134.6
+2022-10-31,Bukit Batok,106.0
+2022-10-31,Bukit Merah,141.6
+2022-10-31,Bukit Panjang,176.6
+2022-10-31,Clementi,121.9
+2022-10-31,Geylang,144.9
+2022-10-31,Hougang,136.2
+2022-10-31,Jurong East,128.1
+2022-10-31,Jurong West,132.5
+2022-10-31,Kallang,131.1
+2022-10-31,Marine Parade,108.9
+2022-10-31,Pasir Ris,123.9
+2022-10-31,Punggol,124.9
+2022-10-31,Queenstown,124.4
+2022-10-31,Sengkang,135.4
+2022-10-31,Serangoon,137.3
+2022-10-31,Tampines,131.4
+2022-10-31,Toa Payoh,108.1
+2022-10-31,Woodlands,150.8
+2022-10-31,Yishun,153.7
+2022-10-31,Choa Chu Kang,145.9
+2022-10-31,Sembawang,88.8
+2022-11-07,Ang Mo Kio,232.7
+2022-11-07,Bedok,226.9
+2022-11-07,Bishan,224.7
+2022-11-07,Bukit Batok,207.2
+2022-11-07,Bukit Merah,260.1
+2022-11-07,Bukit Panjang,219.2
+2022-11-07,Clementi,218.0
+2022-11-07,Geylang,231.2
+2022-11-07,Hougang,209.7
+2022-11-07,Jurong East,193.8
+2022-11-07,Jurong West,236.1
+2022-11-07,Kallang,272.3
+2022-11-07,Marine Parade,209.1
+2022-11-07,Pasir Ris,220.5
+2022-11-07,Punggol,180.8
+2022-11-07,Queenstown,213.5
+2022-11-07,Sengkang,211.6
+2022-11-07,Serangoon,247.9
+2022-11-07,Tampines,201.8
+2022-11-07,Toa Payoh,268.0
+2022-11-07,Woodlands,206.0
+2022-11-07,Yishun,285.0
+2022-11-07,Choa Chu Kang,201.2
+2022-11-07,Sembawang,258.3
+2022-11-14,Ang Mo Kio,277.2
+2022-11-14,Bedok,250.3
+2022-11-14,Bishan,277.5
+2022-11-14,Bukit Batok,224.8
+2022-11-14,Bukit Merah,315.8
+2022-11-14,Bukit Panjang,267.7
+2022-11-14,Clementi,214.0
+2022-11-14,Geylang,280.4
+2022-11-14,Hougang,245.1
+2022-11-14,Jurong East,211.7
+2022-11-14,Jurong West,275.5
+2022-11-14,Kallang,272.6
+2022-11-14,Marine Parade,205.4
+2022-11-14,Pasir Ris,266.2
+2022-11-14,Punggol,208.4
+2022-11-14,Queenstown,238.8
+2022-11-14,Sengkang,227.8
+2022-11-14,Serangoon,266.4
+2022-11-14,Tampines,226.8
+2022-11-14,Toa Payoh,254.7
+2022-11-14,Woodlands,285.5
+2022-11-14,Yishun,264.1
+2022-11-14,Choa Chu Kang,221.4
+2022-11-14,Sembawang,237.9
+2022-11-21,Ang Mo Kio,182.0
+2022-11-21,Bedok,169.9
+2022-11-21,Bishan,205.7
+2022-11-21,Bukit Batok,147.5
+2022-11-21,Bukit Merah,233.4
+2022-11-21,Bukit Panjang,223.7
+2022-11-21,Clementi,118.4
+2022-11-21,Geylang,181.3
+2022-11-21,Hougang,166.4
+2022-11-21,Jurong East,198.9
+2022-11-21,Jurong West,187.7
+2022-11-21,Kallang,192.7
+2022-11-21,Marine Parade,134.7
+2022-11-21,Pasir Ris,147.6
+2022-11-21,Punggol,186.7
+2022-11-21,Queenstown,139.9
+2022-11-21,Sengkang,219.2
+2022-11-21,Serangoon,213.1
+2022-11-21,Tampines,199.2
+2022-11-21,Toa Payoh,223.1
+2022-11-21,Woodlands,184.3
+2022-11-21,Yishun,217.6
+2022-11-21,Choa Chu Kang,176.3
+2022-11-21,Sembawang,220.8
+2022-11-28,Ang Mo Kio,151.2
+2022-11-28,Bedok,159.9
+2022-11-28,Bishan,160.3
+2022-11-28,Bukit Batok,121.7
+2022-11-28,Bukit Merah,191.9
+2022-11-28,Bukit Panjang,199.7
+2022-11-28,Clementi,163.8
+2022-11-28,Geylang,142.1
+2022-11-28,Hougang,127.2
+2022-11-28,Jurong East,175.8
+2022-11-28,Jurong West,155.5
+2022-11-28,Kallang,167.3
+2022-11-28,Marine Parade,151.4
+2022-11-28,Pasir Ris,139.2
+2022-11-28,Punggol,142.5
+2022-11-28,Queenstown,130.3
+2022-11-28,Sengkang,141.6
+2022-11-28,Serangoon,183.2
+2022-11-28,Tampines,133.4
+2022-11-28,Toa Payoh,197.2
+2022-11-28,Woodlands,168.1
+2022-11-28,Yishun,197.7
+2022-11-28,Choa Chu Kang,164.7
+2022-11-28,Sembawang,214.0
+2022-12-05,Ang Mo Kio,184.7
+2022-12-05,Bedok,156.2
+2022-12-05,Bishan,194.7
+2022-12-05,Bukit Batok,143.8
+2022-12-05,Bukit Merah,172.7
+2022-12-05,Bukit Panjang,170.8
+2022-12-05,Clementi,147.7
+2022-12-05,Geylang,138.4
+2022-12-05,Hougang,162.3
+2022-12-05,Jurong East,142.7
+2022-12-05,Jurong West,160.4
+2022-12-05,Kallang,177.8
+2022-12-05,Marine Parade,148.0
+2022-12-05,Pasir Ris,136.2
+2022-12-05,Punggol,149.1
+2022-12-05,Queenstown,137.5
+2022-12-05,Sengkang,181.9
+2022-12-05,Serangoon,150.9
+2022-12-05,Tampines,161.3
+2022-12-05,Toa Payoh,162.8
+2022-12-05,Woodlands,204.1
+2022-12-05,Yishun,152.1
+2022-12-05,Choa Chu Kang,162.3
+2022-12-05,Sembawang,162.2
+2022-12-12,Ang Mo Kio,309.2
+2022-12-12,Bedok,271.2
+2022-12-12,Bishan,305.4
+2022-12-12,Bukit Batok,240.2
+2022-12-12,Bukit Merah,337.8
+2022-12-12,Bukit Panjang,334.8
+2022-12-12,Clementi,234.7
+2022-12-12,Geylang,266.0
+2022-12-12,Hougang,246.9
+2022-12-12,Jurong East,317.0
+2022-12-12,Jurong West,280.1
+2022-12-12,Kallang,323.4
+2022-12-12,Marine Parade,271.1
+2022-12-12,Pasir Ris,257.2
+2022-12-12,Punggol,248.9
+2022-12-12,Queenstown,298.0
+2022-12-12,Sengkang,252.3
+2022-12-12,Serangoon,294.9
+2022-12-12,Tampines,267.8
+2022-12-12,Toa Payoh,298.2
+2022-12-12,Woodlands,272.0
+2022-12-12,Yishun,291.3
+2022-12-12,Choa Chu Kang,271.7
+2022-12-12,Sembawang,300.3
+2022-12-19,Ang Mo Kio,166.9
+2022-12-19,Bedok,171.0
+2022-12-19,Bishan,195.2
+2022-12-19,Bukit Batok,141.5
+2022-12-19,Bukit Merah,191.8
+2022-12-19,Bukit Panjang,208.9
+2022-12-19,Clementi,117.5
+2022-12-19,Geylang,143.5
+2022-12-19,Hougang,156.4
+2022-12-19,Jurong East,191.1
+2022-12-19,Jurong West,164.5
+2022-12-19,Kallang,201.1
+2022-12-19,Marine Parade,138.0
+2022-12-19,Pasir Ris,140.1
+2022-12-19,Punggol,116.3
+2022-12-19,Queenstown,164.7
+2022-12-19,Sengkang,130.6
+2022-12-19,Serangoon,173.0
+2022-12-19,Tampines,191.8
+2022-12-19,Toa Payoh,176.4
+2022-12-19,Woodlands,189.6
+2022-12-19,Yishun,156.7
+2022-12-19,Choa Chu Kang,144.7
+2022-12-19,Sembawang,152.8
+2022-12-26,Ang Mo Kio,217.9
+2022-12-26,Bedok,172.2
+2022-12-26,Bishan,234.8
+2022-12-26,Bukit Batok,158.3
+2022-12-26,Bukit Merah,200.9
+2022-12-26,Bukit Panjang,173.6
+2022-12-26,Clementi,154.8
+2022-12-26,Geylang,178.5
+2022-12-26,Hougang,168.0
+2022-12-26,Jurong East,183.4
+2022-12-26,Jurong West,167.5
+2022-12-26,Kallang,153.2
+2022-12-26,Marine Parade,110.2
+2022-12-26,Pasir Ris,176.1
+2022-12-26,Punggol,124.9
+2022-12-26,Queenstown,121.2
+2022-12-26,Sengkang,168.5
+2022-12-26,Serangoon,234.8
+2022-12-26,Tampines,172.7
+2022-12-26,Toa Payoh,213.8
+2022-12-26,Woodlands,178.0
+2022-12-26,Yishun,193.4
+2022-12-26,Choa Chu Kang,186.1
+2022-12-26,Sembawang,189.5
+2023-01-02,Ang Mo Kio,325.2
+2023-01-02,Bedok,286.6
+2023-01-02,Bishan,295.3
+2023-01-02,Bukit Batok,239.1
+2023-01-02,Bukit Merah,295.7
+2023-01-02,Bukit Panjang,284.4
+2023-01-02,Clementi,225.9
+2023-01-02,Geylang,320.5
+2023-01-02,Hougang,250.4
+2023-01-02,Jurong East,269.6
+2023-01-02,Jurong West,292.5
+2023-01-02,Kallang,295.4
+2023-01-02,Marine Parade,287.5
+2023-01-02,Pasir Ris,263.0
+2023-01-02,Punggol,225.2
+2023-01-02,Queenstown,276.8
+2023-01-02,Sengkang,210.1
+2023-01-02,Serangoon,301.1
+2023-01-02,Tampines,272.8
+2023-01-02,Toa Payoh,299.6
+2023-01-02,Woodlands,296.0
+2023-01-02,Yishun,317.7
+2023-01-02,Choa Chu Kang,235.8
+2023-01-02,Sembawang,303.7
+2023-01-09,Ang Mo Kio,234.2
+2023-01-09,Bedok,218.5
+2023-01-09,Bishan,222.1
+2023-01-09,Bukit Batok,208.6
+2023-01-09,Bukit Merah,288.2
+2023-01-09,Bukit Panjang,259.3
+2023-01-09,Clementi,194.5
+2023-01-09,Geylang,267.0
+2023-01-09,Hougang,204.0
+2023-01-09,Jurong East,207.9
+2023-01-09,Jurong West,227.2
+2023-01-09,Kallang,228.9
+2023-01-09,Marine Parade,184.3
+2023-01-09,Pasir Ris,220.3
+2023-01-09,Punggol,195.2
+2023-01-09,Queenstown,214.7
+2023-01-09,Sengkang,218.8
+2023-01-09,Serangoon,265.5
+2023-01-09,Tampines,244.9
+2023-01-09,Toa Payoh,227.9
+2023-01-09,Woodlands,179.4
+2023-01-09,Yishun,274.0
+2023-01-09,Choa Chu Kang,191.8
+2023-01-09,Sembawang,250.8
+2023-01-16,Ang Mo Kio,253.9
+2023-01-16,Bedok,194.7
+2023-01-16,Bishan,241.2
+2023-01-16,Bukit Batok,193.7
+2023-01-16,Bukit Merah,233.3
+2023-01-16,Bukit Panjang,209.9
+2023-01-16,Clementi,172.7
+2023-01-16,Geylang,215.1
+2023-01-16,Hougang,199.9
+2023-01-16,Jurong East,179.0
+2023-01-16,Jurong West,219.7
+2023-01-16,Kallang,191.0
+2023-01-16,Marine Parade,154.5
+2023-01-16,Pasir Ris,196.3
+2023-01-16,Punggol,135.2
+2023-01-16,Queenstown,236.1
+2023-01-16,Sengkang,166.9
+2023-01-16,Serangoon,218.7
+2023-01-16,Tampines,228.5
+2023-01-16,Toa Payoh,216.6
+2023-01-16,Woodlands,163.2
+2023-01-16,Yishun,222.9
+2023-01-16,Choa Chu Kang,181.5
+2023-01-16,Sembawang,186.3
+2023-01-23,Ang Mo Kio,286.5
+2023-01-23,Bedok,283.2
+2023-01-23,Bishan,279.7
+2023-01-23,Bukit Batok,269.5
+2023-01-23,Bukit Merah,318.8
+2023-01-23,Bukit Panjang,268.7
+2023-01-23,Clementi,278.8
+2023-01-23,Geylang,269.0
+2023-01-23,Hougang,253.1
+2023-01-23,Jurong East,260.4
+2023-01-23,Jurong West,309.9
+2023-01-23,Kallang,309.7
+2023-01-23,Marine Parade,228.2
+2023-01-23,Pasir Ris,242.0
+2023-01-23,Punggol,236.8
+2023-01-23,Queenstown,240.8
+2023-01-23,Sengkang,289.3
+2023-01-23,Serangoon,289.2
+2023-01-23,Tampines,260.4
+2023-01-23,Toa Payoh,308.9
+2023-01-23,Woodlands,246.2
+2023-01-23,Yishun,283.1
+2023-01-23,Choa Chu Kang,283.7
+2023-01-23,Sembawang,289.4
+2023-01-30,Ang Mo Kio,270.1
+2023-01-30,Bedok,235.5
+2023-01-30,Bishan,277.3
+2023-01-30,Bukit Batok,202.7
+2023-01-30,Bukit Merah,268.5
+2023-01-30,Bukit Panjang,276.8
+2023-01-30,Clementi,231.4
+2023-01-30,Geylang,287.9
+2023-01-30,Hougang,196.7
+2023-01-30,Jurong East,226.7
+2023-01-30,Jurong West,269.8
+2023-01-30,Kallang,240.7
+2023-01-30,Marine Parade,224.7
+2023-01-30,Pasir Ris,263.7
+2023-01-30,Punggol,200.2
+2023-01-30,Queenstown,237.5
+2023-01-30,Sengkang,260.9
+2023-01-30,Serangoon,302.6
+2023-01-30,Tampines,264.1
+2023-01-30,Toa Payoh,296.0
+2023-01-30,Woodlands,237.1
+2023-01-30,Yishun,288.8
+2023-01-30,Choa Chu Kang,252.9
+2023-01-30,Sembawang,277.4
+2023-02-06,Ang Mo Kio,121.3
+2023-02-06,Bedok,85.1
+2023-02-06,Bishan,179.5
+2023-02-06,Bukit Batok,88.4
+2023-02-06,Bukit Merah,140.3
+2023-02-06,Bukit Panjang,126.5
+2023-02-06,Clementi,117.9
+2023-02-06,Geylang,149.6
+2023-02-06,Hougang,130.2
+2023-02-06,Jurong East,108.9
+2023-02-06,Jurong West,131.2
+2023-02-06,Kallang,137.7
+2023-02-06,Marine Parade,102.9
+2023-02-06,Pasir Ris,154.0
+2023-02-06,Punggol,117.7
+2023-02-06,Queenstown,135.3
+2023-02-06,Sengkang,131.3
+2023-02-06,Serangoon,159.3
+2023-02-06,Tampines,130.6
+2023-02-06,Toa Payoh,118.8
+2023-02-06,Woodlands,137.5
+2023-02-06,Yishun,130.4
+2023-02-06,Choa Chu Kang,112.6
+2023-02-06,Sembawang,155.2
+2023-02-13,Ang Mo Kio,189.9
+2023-02-13,Bedok,172.0
+2023-02-13,Bishan,221.2
+2023-02-13,Bukit Batok,161.3
+2023-02-13,Bukit Merah,145.2
+2023-02-13,Bukit Panjang,168.7
+2023-02-13,Clementi,177.6
+2023-02-13,Geylang,181.2
+2023-02-13,Hougang,149.6
+2023-02-13,Jurong East,170.7
+2023-02-13,Jurong West,157.9
+2023-02-13,Kallang,176.7
+2023-02-13,Marine Parade,131.6
+2023-02-13,Pasir Ris,153.9
+2023-02-13,Punggol,153.2
+2023-02-13,Queenstown,134.1
+2023-02-13,Sengkang,175.2
+2023-02-13,Serangoon,163.5
+2023-02-13,Tampines,165.9
+2023-02-13,Toa Payoh,155.2
+2023-02-13,Woodlands,178.3
+2023-02-13,Yishun,210.5
+2023-02-13,Choa Chu Kang,145.6
+2023-02-13,Sembawang,159.4
+2023-02-20,Ang Mo Kio,214.7
+2023-02-20,Bedok,190.5
+2023-02-20,Bishan,195.8
+2023-02-20,Bukit Batok,181.8
+2023-02-20,Bukit Merah,218.8
+2023-02-20,Bukit Panjang,210.2
+2023-02-20,Clementi,153.0
+2023-02-20,Geylang,195.0
+2023-02-20,Hougang,187.2
+2023-02-20,Jurong East,176.9
+2023-02-20,Jurong West,240.2
+2023-02-20,Kallang,193.8
+2023-02-20,Marine Parade,169.4
+2023-02-20,Pasir Ris,204.9
+2023-02-20,Punggol,136.6
+2023-02-20,Queenstown,149.1
+2023-02-20,Sengkang,150.0
+2023-02-20,Serangoon,232.9
+2023-02-20,Tampines,183.0
+2023-02-20,Toa Payoh,272.4
+2023-02-20,Woodlands,186.7
+2023-02-20,Yishun,223.0
+2023-02-20,Choa Chu Kang,219.1
+2023-02-20,Sembawang,259.4
+2023-02-27,Ang Mo Kio,220.0
+2023-02-27,Bedok,183.1
+2023-02-27,Bishan,169.8
+2023-02-27,Bukit Batok,162.1
+2023-02-27,Bukit Merah,190.6
+2023-02-27,Bukit Panjang,200.2
+2023-02-27,Clementi,169.5
+2023-02-27,Geylang,162.7
+2023-02-27,Hougang,167.8
+2023-02-27,Jurong East,172.6
+2023-02-27,Jurong West,121.8
+2023-02-27,Kallang,190.0
+2023-02-27,Marine Parade,133.6
+2023-02-27,Pasir Ris,142.9
+2023-02-27,Punggol,125.3
+2023-02-27,Queenstown,156.2
+2023-02-27,Sengkang,165.2
+2023-02-27,Serangoon,151.7
+2023-02-27,Tampines,171.1
+2023-02-27,Toa Payoh,202.2
+2023-02-27,Woodlands,207.9
+2023-02-27,Yishun,167.5
+2023-02-27,Choa Chu Kang,155.3
+2023-02-27,Sembawang,194.3
+2023-03-06,Ang Mo Kio,159.6
+2023-03-06,Bedok,168.0
+2023-03-06,Bishan,200.3
+2023-03-06,Bukit Batok,160.7
+2023-03-06,Bukit Merah,160.3
+2023-03-06,Bukit Panjang,132.8
+2023-03-06,Clementi,134.1
+2023-03-06,Geylang,121.3
+2023-03-06,Hougang,139.2
+2023-03-06,Jurong East,138.8
+2023-03-06,Jurong West,148.8
+2023-03-06,Kallang,123.3
+2023-03-06,Marine Parade,137.1
+2023-03-06,Pasir Ris,132.6
+2023-03-06,Punggol,103.4
+2023-03-06,Queenstown,84.3
+2023-03-06,Sengkang,138.2
+2023-03-06,Serangoon,195.1
+2023-03-06,Tampines,182.4
+2023-03-06,Toa Payoh,160.9
+2023-03-06,Woodlands,140.1
+2023-03-06,Yishun,178.0
+2023-03-06,Choa Chu Kang,124.7
+2023-03-06,Sembawang,174.6
+2023-03-13,Ang Mo Kio,220.1
+2023-03-13,Bedok,188.8
+2023-03-13,Bishan,187.8
+2023-03-13,Bukit Batok,147.6
+2023-03-13,Bukit Merah,223.9
+2023-03-13,Bukit Panjang,193.3
+2023-03-13,Clementi,150.5
+2023-03-13,Geylang,181.2
+2023-03-13,Hougang,163.2
+2023-03-13,Jurong East,212.0
+2023-03-13,Jurong West,191.1
+2023-03-13,Kallang,197.5
+2023-03-13,Marine Parade,163.7
+2023-03-13,Pasir Ris,159.9
+2023-03-13,Punggol,126.4
+2023-03-13,Queenstown,160.1
+2023-03-13,Sengkang,181.8
+2023-03-13,Serangoon,205.2
+2023-03-13,Tampines,204.2
+2023-03-13,Toa Payoh,218.7
+2023-03-13,Woodlands,191.8
+2023-03-13,Yishun,202.8
+2023-03-13,Choa Chu Kang,202.2
+2023-03-13,Sembawang,196.5
+2023-03-20,Ang Mo Kio,259.8
+2023-03-20,Bedok,188.3
+2023-03-20,Bishan,243.2
+2023-03-20,Bukit Batok,162.3
+2023-03-20,Bukit Merah,257.6
+2023-03-20,Bukit Panjang,225.8
+2023-03-20,Clementi,159.3
+2023-03-20,Geylang,251.9
+2023-03-20,Hougang,179.1
+2023-03-20,Jurong East,190.7
+2023-03-20,Jurong West,234.8
+2023-03-20,Kallang,249.4
+2023-03-20,Marine Parade,164.8
+2023-03-20,Pasir Ris,210.3
+2023-03-20,Punggol,193.7
+2023-03-20,Queenstown,220.7
+2023-03-20,Sengkang,206.0
+2023-03-20,Serangoon,225.7
+2023-03-20,Tampines,201.2
+2023-03-20,Toa Payoh,250.0
+2023-03-20,Woodlands,200.7
+2023-03-20,Yishun,187.6
+2023-03-20,Choa Chu Kang,220.0
+2023-03-20,Sembawang,264.1
+2023-03-27,Ang Mo Kio,209.5
+2023-03-27,Bedok,131.7
+2023-03-27,Bishan,155.3
+2023-03-27,Bukit Batok,136.7
+2023-03-27,Bukit Merah,205.2
+2023-03-27,Bukit Panjang,162.8
+2023-03-27,Clementi,123.9
+2023-03-27,Geylang,162.1
+2023-03-27,Hougang,125.8
+2023-03-27,Jurong East,159.8
+2023-03-27,Jurong West,150.6
+2023-03-27,Kallang,151.5
+2023-03-27,Marine Parade,155.4
+2023-03-27,Pasir Ris,133.9
+2023-03-27,Punggol,103.2
+2023-03-27,Queenstown,149.6
+2023-03-27,Sengkang,137.4
+2023-03-27,Serangoon,176.6
+2023-03-27,Tampines,161.8
+2023-03-27,Toa Payoh,176.6
+2023-03-27,Woodlands,157.4
+2023-03-27,Yishun,161.0
+2023-03-27,Choa Chu Kang,152.5
+2023-03-27,Sembawang,193.3
+2023-04-03,Ang Mo Kio,224.1
+2023-04-03,Bedok,175.8
+2023-04-03,Bishan,203.8
+2023-04-03,Bukit Batok,192.4
+2023-04-03,Bukit Merah,224.3
+2023-04-03,Bukit Panjang,173.8
+2023-04-03,Clementi,189.8
+2023-04-03,Geylang,191.1
+2023-04-03,Hougang,210.8
+2023-04-03,Jurong East,206.6
+2023-04-03,Jurong West,197.5
+2023-04-03,Kallang,228.2
+2023-04-03,Marine Parade,166.9
+2023-04-03,Pasir Ris,204.0
+2023-04-03,Punggol,175.2
+2023-04-03,Queenstown,168.1
+2023-04-03,Sengkang,168.3
+2023-04-03,Serangoon,229.0
+2023-04-03,Tampines,188.1
+2023-04-03,Toa Payoh,214.0
+2023-04-03,Woodlands,179.6
+2023-04-03,Yishun,228.6
+2023-04-03,Choa Chu Kang,230.2
+2023-04-03,Sembawang,198.7
+2023-04-10,Ang Mo Kio,170.9
+2023-04-10,Bedok,151.0
+2023-04-10,Bishan,173.0
+2023-04-10,Bukit Batok,129.9
+2023-04-10,Bukit Merah,175.4
+2023-04-10,Bukit Panjang,154.2
+2023-04-10,Clementi,154.3
+2023-04-10,Geylang,185.3
+2023-04-10,Hougang,109.0
+2023-04-10,Jurong East,136.6
+2023-04-10,Jurong West,158.8
+2023-04-10,Kallang,149.8
+2023-04-10,Marine Parade,162.7
+2023-04-10,Pasir Ris,147.7
+2023-04-10,Punggol,110.7
+2023-04-10,Queenstown,153.7
+2023-04-10,Sengkang,144.2
+2023-04-10,Serangoon,165.7
+2023-04-10,Tampines,185.3
+2023-04-10,Toa Payoh,177.1
+2023-04-10,Woodlands,146.1
+2023-04-10,Yishun,129.5
+2023-04-10,Choa Chu Kang,141.4
+2023-04-10,Sembawang,194.7
+2023-04-17,Ang Mo Kio,226.8
+2023-04-17,Bedok,175.3
+2023-04-17,Bishan,175.5
+2023-04-17,Bukit Batok,145.9
+2023-04-17,Bukit Merah,221.3
+2023-04-17,Bukit Panjang,197.5
+2023-04-17,Clementi,153.1
+2023-04-17,Geylang,181.0
+2023-04-17,Hougang,151.8
+2023-04-17,Jurong East,151.9
+2023-04-17,Jurong West,222.4
+2023-04-17,Kallang,180.1
+2023-04-17,Marine Parade,176.8
+2023-04-17,Pasir Ris,202.6
+2023-04-17,Punggol,172.4
+2023-04-17,Queenstown,161.8
+2023-04-17,Sengkang,174.9
+2023-04-17,Serangoon,191.4
+2023-04-17,Tampines,161.3
+2023-04-17,Toa Payoh,211.0
+2023-04-17,Woodlands,159.4
+2023-04-17,Yishun,226.4
+2023-04-17,Choa Chu Kang,164.7
+2023-04-17,Sembawang,206.7
+2023-04-24,Ang Mo Kio,170.3
+2023-04-24,Bedok,166.5
+2023-04-24,Bishan,163.4
+2023-04-24,Bukit Batok,154.1
+2023-04-24,Bukit Merah,209.0
+2023-04-24,Bukit Panjang,185.9
+2023-04-24,Clementi,101.4
+2023-04-24,Geylang,169.7
+2023-04-24,Hougang,162.3
+2023-04-24,Jurong East,124.9
+2023-04-24,Jurong West,183.3
+2023-04-24,Kallang,179.0
+2023-04-24,Marine Parade,111.1
+2023-04-24,Pasir Ris,169.6
+2023-04-24,Punggol,140.8
+2023-04-24,Queenstown,164.3
+2023-04-24,Sengkang,128.8
+2023-04-24,Serangoon,173.4
+2023-04-24,Tampines,125.1
+2023-04-24,Toa Payoh,136.0
+2023-04-24,Woodlands,165.2
+2023-04-24,Yishun,201.9
+2023-04-24,Choa Chu Kang,159.5
+2023-04-24,Sembawang,178.7
+2023-05-01,Ang Mo Kio,159.7
+2023-05-01,Bedok,147.3
+2023-05-01,Bishan,172.5
+2023-05-01,Bukit Batok,136.2
+2023-05-01,Bukit Merah,187.7
+2023-05-01,Bukit Panjang,149.6
+2023-05-01,Clementi,144.2
+2023-05-01,Geylang,154.6
+2023-05-01,Hougang,150.2
+2023-05-01,Jurong East,156.9
+2023-05-01,Jurong West,142.6
+2023-05-01,Kallang,180.0
+2023-05-01,Marine Parade,118.6
+2023-05-01,Pasir Ris,162.3
+2023-05-01,Punggol,136.7
+2023-05-01,Queenstown,181.3
+2023-05-01,Sengkang,137.1
+2023-05-01,Serangoon,155.8
+2023-05-01,Tampines,151.8
+2023-05-01,Toa Payoh,167.4
+2023-05-01,Woodlands,171.2
+2023-05-01,Yishun,139.6
+2023-05-01,Choa Chu Kang,126.5
+2023-05-01,Sembawang,150.6
+2023-05-08,Ang Mo Kio,256.9
+2023-05-08,Bedok,235.3
+2023-05-08,Bishan,259.8
+2023-05-08,Bukit Batok,197.2
+2023-05-08,Bukit Merah,267.5
+2023-05-08,Bukit Panjang,217.6
+2023-05-08,Clementi,196.8
+2023-05-08,Geylang,223.5
+2023-05-08,Hougang,182.7
+2023-05-08,Jurong East,211.4
+2023-05-08,Jurong West,242.0
+2023-05-08,Kallang,253.9
+2023-05-08,Marine Parade,193.8
+2023-05-08,Pasir Ris,225.7
+2023-05-08,Punggol,201.6
+2023-05-08,Queenstown,264.4
+2023-05-08,Sengkang,170.0
+2023-05-08,Serangoon,223.5
+2023-05-08,Tampines,251.2
+2023-05-08,Toa Payoh,245.8
+2023-05-08,Woodlands,243.9
+2023-05-08,Yishun,255.2
+2023-05-08,Choa Chu Kang,257.2
+2023-05-08,Sembawang,228.3
+2023-05-15,Ang Mo Kio,267.4
+2023-05-15,Bedok,220.1
+2023-05-15,Bishan,229.8
+2023-05-15,Bukit Batok,150.2
+2023-05-15,Bukit Merah,233.8
+2023-05-15,Bukit Panjang,201.0
+2023-05-15,Clementi,227.7
+2023-05-15,Geylang,216.4
+2023-05-15,Hougang,188.9
+2023-05-15,Jurong East,210.0
+2023-05-15,Jurong West,222.9
+2023-05-15,Kallang,251.7
+2023-05-15,Marine Parade,165.6
+2023-05-15,Pasir Ris,205.0
+2023-05-15,Punggol,163.2
+2023-05-15,Queenstown,172.6
+2023-05-15,Sengkang,182.5
+2023-05-15,Serangoon,223.4
+2023-05-15,Tampines,200.9
+2023-05-15,Toa Payoh,224.9
+2023-05-15,Woodlands,185.5
+2023-05-15,Yishun,235.0
+2023-05-15,Choa Chu Kang,173.1
+2023-05-15,Sembawang,251.9
+2023-05-22,Ang Mo Kio,178.2
+2023-05-22,Bedok,159.7
+2023-05-22,Bishan,199.1
+2023-05-22,Bukit Batok,130.1
+2023-05-22,Bukit Merah,195.2
+2023-05-22,Bukit Panjang,223.9
+2023-05-22,Clementi,150.8
+2023-05-22,Geylang,167.3
+2023-05-22,Hougang,129.3
+2023-05-22,Jurong East,150.7
+2023-05-22,Jurong West,154.8
+2023-05-22,Kallang,174.7
+2023-05-22,Marine Parade,140.4
+2023-05-22,Pasir Ris,113.0
+2023-05-22,Punggol,138.0
+2023-05-22,Queenstown,176.2
+2023-05-22,Sengkang,143.4
+2023-05-22,Serangoon,161.1
+2023-05-22,Tampines,135.2
+2023-05-22,Toa Payoh,148.4
+2023-05-22,Woodlands,182.7
+2023-05-22,Yishun,180.3
+2023-05-22,Choa Chu Kang,173.3
+2023-05-22,Sembawang,214.6
+2023-05-29,Ang Mo Kio,185.3
+2023-05-29,Bedok,173.5
+2023-05-29,Bishan,221.9
+2023-05-29,Bukit Batok,169.3
+2023-05-29,Bukit Merah,193.0
+2023-05-29,Bukit Panjang,163.2
+2023-05-29,Clementi,110.1
+2023-05-29,Geylang,168.3
+2023-05-29,Hougang,150.7
+2023-05-29,Jurong East,145.6
+2023-05-29,Jurong West,181.8
+2023-05-29,Kallang,182.5
+2023-05-29,Marine Parade,143.4
+2023-05-29,Pasir Ris,154.1
+2023-05-29,Punggol,151.3
+2023-05-29,Queenstown,174.2
+2023-05-29,Sengkang,140.0
+2023-05-29,Serangoon,214.4
+2023-05-29,Tampines,172.1
+2023-05-29,Toa Payoh,198.8
+2023-05-29,Woodlands,191.7
+2023-05-29,Yishun,201.3
+2023-05-29,Choa Chu Kang,187.9
+2023-05-29,Sembawang,202.4
+2023-06-05,Ang Mo Kio,171.9
+2023-06-05,Bedok,134.5
+2023-06-05,Bishan,132.2
+2023-06-05,Bukit Batok,119.7
+2023-06-05,Bukit Merah,227.3
+2023-06-05,Bukit Panjang,148.8
+2023-06-05,Clementi,94.9
+2023-06-05,Geylang,174.7
+2023-06-05,Hougang,152.7
+2023-06-05,Jurong East,170.5
+2023-06-05,Jurong West,171.0
+2023-06-05,Kallang,175.4
+2023-06-05,Marine Parade,166.3
+2023-06-05,Pasir Ris,131.4
+2023-06-05,Punggol,110.7
+2023-06-05,Queenstown,122.9
+2023-06-05,Sengkang,136.4
+2023-06-05,Serangoon,191.7
+2023-06-05,Tampines,163.0
+2023-06-05,Toa Payoh,183.5
+2023-06-05,Woodlands,119.1
+2023-06-05,Yishun,158.3
+2023-06-05,Choa Chu Kang,111.1
+2023-06-05,Sembawang,195.6
+2023-06-12,Ang Mo Kio,177.6
+2023-06-12,Bedok,159.8
+2023-06-12,Bishan,130.9
+2023-06-12,Bukit Batok,113.7
+2023-06-12,Bukit Merah,137.6
+2023-06-12,Bukit Panjang,141.4
+2023-06-12,Clementi,117.1
+2023-06-12,Geylang,162.7
+2023-06-12,Hougang,150.9
+2023-06-12,Jurong East,161.0
+2023-06-12,Jurong West,137.3
+2023-06-12,Kallang,141.5
+2023-06-12,Marine Parade,85.4
+2023-06-12,Pasir Ris,118.4
+2023-06-12,Punggol,138.4
+2023-06-12,Queenstown,165.4
+2023-06-12,Sengkang,105.6
+2023-06-12,Serangoon,138.1
+2023-06-12,Tampines,139.6
+2023-06-12,Toa Payoh,165.3
+2023-06-12,Woodlands,126.7
+2023-06-12,Yishun,166.8
+2023-06-12,Choa Chu Kang,126.4
+2023-06-12,Sembawang,158.0
+2023-06-19,Ang Mo Kio,144.2
+2023-06-19,Bedok,136.1
+2023-06-19,Bishan,120.3
+2023-06-19,Bukit Batok,106.3
+2023-06-19,Bukit Merah,112.7
+2023-06-19,Bukit Panjang,128.7
+2023-06-19,Clementi,113.0
+2023-06-19,Geylang,141.7
+2023-06-19,Hougang,121.0
+2023-06-19,Jurong East,142.1
+2023-06-19,Jurong West,107.6
+2023-06-19,Kallang,106.0
+2023-06-19,Marine Parade,121.5
+2023-06-19,Pasir Ris,84.5
+2023-06-19,Punggol,114.6
+2023-06-19,Queenstown,100.4
+2023-06-19,Sengkang,152.9
+2023-06-19,Serangoon,144.7
+2023-06-19,Tampines,126.2
+2023-06-19,Toa Payoh,173.4
+2023-06-19,Woodlands,111.9
+2023-06-19,Yishun,130.0
+2023-06-19,Choa Chu Kang,101.4
+2023-06-19,Sembawang,130.2
+2023-06-26,Ang Mo Kio,158.3
+2023-06-26,Bedok,188.1
+2023-06-26,Bishan,171.1
+2023-06-26,Bukit Batok,158.5
+2023-06-26,Bukit Merah,242.9
+2023-06-26,Bukit Panjang,165.3
+2023-06-26,Clementi,104.8
+2023-06-26,Geylang,179.8
+2023-06-26,Hougang,179.2
+2023-06-26,Jurong East,207.0
+2023-06-26,Jurong West,162.6
+2023-06-26,Kallang,193.6
+2023-06-26,Marine Parade,140.8
+2023-06-26,Pasir Ris,167.5
+2023-06-26,Punggol,203.0
+2023-06-26,Queenstown,137.8
+2023-06-26,Sengkang,169.4
+2023-06-26,Serangoon,198.4
+2023-06-26,Tampines,198.4
+2023-06-26,Toa Payoh,203.3
+2023-06-26,Woodlands,186.3
+2023-06-26,Yishun,191.8
+2023-06-26,Choa Chu Kang,176.7
+2023-06-26,Sembawang,192.7
+2023-07-03,Ang Mo Kio,118.0
+2023-07-03,Bedok,82.0
+2023-07-03,Bishan,117.0
+2023-07-03,Bukit Batok,101.4
+2023-07-03,Bukit Merah,127.7
+2023-07-03,Bukit Panjang,132.8
+2023-07-03,Clementi,65.7
+2023-07-03,Geylang,96.1
+2023-07-03,Hougang,108.5
+2023-07-03,Jurong East,87.7
+2023-07-03,Jurong West,118.8
+2023-07-03,Kallang,63.5
+2023-07-03,Marine Parade,145.8
+2023-07-03,Pasir Ris,97.9
+2023-07-03,Punggol,115.3
+2023-07-03,Queenstown,95.5
+2023-07-03,Sengkang,108.3
+2023-07-03,Serangoon,144.9
+2023-07-03,Tampines,130.9
+2023-07-03,Toa Payoh,118.5
+2023-07-03,Woodlands,107.0
+2023-07-03,Yishun,141.6
+2023-07-03,Choa Chu Kang,151.0
+2023-07-03,Sembawang,125.4
+2023-07-10,Ang Mo Kio,193.0
+2023-07-10,Bedok,161.4
+2023-07-10,Bishan,210.7
+2023-07-10,Bukit Batok,169.1
+2023-07-10,Bukit Merah,181.4
+2023-07-10,Bukit Panjang,187.7
+2023-07-10,Clementi,132.5
+2023-07-10,Geylang,153.7
+2023-07-10,Hougang,141.1
+2023-07-10,Jurong East,181.3
+2023-07-10,Jurong West,202.1
+2023-07-10,Kallang,189.8
+2023-07-10,Marine Parade,161.2
+2023-07-10,Pasir Ris,176.1
+2023-07-10,Punggol,133.9
+2023-07-10,Queenstown,172.6
+2023-07-10,Sengkang,176.6
+2023-07-10,Serangoon,199.8
+2023-07-10,Tampines,196.4
+2023-07-10,Toa Payoh,211.0
+2023-07-10,Woodlands,183.1
+2023-07-10,Yishun,216.5
+2023-07-10,Choa Chu Kang,166.9
+2023-07-10,Sembawang,177.4
+2023-07-17,Ang Mo Kio,65.5
+2023-07-17,Bedok,53.4
+2023-07-17,Bishan,91.8
+2023-07-17,Bukit Batok,65.4
+2023-07-17,Bukit Merah,102.2
+2023-07-17,Bukit Panjang,88.6
+2023-07-17,Clementi,77.8
+2023-07-17,Geylang,104.3
+2023-07-17,Hougang,68.8
+2023-07-17,Jurong East,79.0
+2023-07-17,Jurong West,122.1
+2023-07-17,Kallang,91.3
+2023-07-17,Marine Parade,71.0
+2023-07-17,Pasir Ris,85.9
+2023-07-17,Punggol,71.4
+2023-07-17,Queenstown,69.2
+2023-07-17,Sengkang,61.7
+2023-07-17,Serangoon,78.6
+2023-07-17,Tampines,105.2
+2023-07-17,Toa Payoh,87.5
+2023-07-17,Woodlands,86.4
+2023-07-17,Yishun,113.2
+2023-07-17,Choa Chu Kang,79.6
+2023-07-17,Sembawang,111.8
+2023-07-24,Ang Mo Kio,155.7
+2023-07-24,Bedok,100.3
+2023-07-24,Bishan,140.3
+2023-07-24,Bukit Batok,116.6
+2023-07-24,Bukit Merah,172.7
+2023-07-24,Bukit Panjang,106.6
+2023-07-24,Clementi,51.9
+2023-07-24,Geylang,137.7
+2023-07-24,Hougang,149.6
+2023-07-24,Jurong East,146.0
+2023-07-24,Jurong West,139.5
+2023-07-24,Kallang,122.9
+2023-07-24,Marine Parade,124.6
+2023-07-24,Pasir Ris,103.1
+2023-07-24,Punggol,118.0
+2023-07-24,Queenstown,131.4
+2023-07-24,Sengkang,139.9
+2023-07-24,Serangoon,191.8
+2023-07-24,Tampines,135.5
+2023-07-24,Toa Payoh,135.3
+2023-07-24,Woodlands,129.7
+2023-07-24,Yishun,108.9
+2023-07-24,Choa Chu Kang,109.9
+2023-07-24,Sembawang,136.1
+2023-07-31,Ang Mo Kio,147.6
+2023-07-31,Bedok,140.4
+2023-07-31,Bishan,174.9
+2023-07-31,Bukit Batok,103.7
+2023-07-31,Bukit Merah,145.8
+2023-07-31,Bukit Panjang,171.2
+2023-07-31,Clementi,120.3
+2023-07-31,Geylang,134.6
+2023-07-31,Hougang,141.8
+2023-07-31,Jurong East,126.0
+2023-07-31,Jurong West,172.1
+2023-07-31,Kallang,135.4
+2023-07-31,Marine Parade,118.3
+2023-07-31,Pasir Ris,156.1
+2023-07-31,Punggol,117.0
+2023-07-31,Queenstown,150.9
+2023-07-31,Sengkang,131.6
+2023-07-31,Serangoon,192.6
+2023-07-31,Tampines,174.3
+2023-07-31,Toa Payoh,136.4
+2023-07-31,Woodlands,156.3
+2023-07-31,Yishun,145.2
+2023-07-31,Choa Chu Kang,142.5
+2023-07-31,Sembawang,162.9
+2023-08-07,Ang Mo Kio,176.6
+2023-08-07,Bedok,156.9
+2023-08-07,Bishan,157.8
+2023-08-07,Bukit Batok,129.5
+2023-08-07,Bukit Merah,190.3
+2023-08-07,Bukit Panjang,186.4
+2023-08-07,Clementi,134.6
+2023-08-07,Geylang,154.9
+2023-08-07,Hougang,138.9
+2023-08-07,Jurong East,160.3
+2023-08-07,Jurong West,136.6
+2023-08-07,Kallang,116.4
+2023-08-07,Marine Parade,121.7
+2023-08-07,Pasir Ris,125.4
+2023-08-07,Punggol,122.5
+2023-08-07,Queenstown,145.3
+2023-08-07,Sengkang,136.1
+2023-08-07,Serangoon,196.1
+2023-08-07,Tampines,162.6
+2023-08-07,Toa Payoh,184.0
+2023-08-07,Woodlands,171.7
+2023-08-07,Yishun,153.6
+2023-08-07,Choa Chu Kang,172.2
+2023-08-07,Sembawang,174.9
+2023-08-14,Ang Mo Kio,133.2
+2023-08-14,Bedok,131.6
+2023-08-14,Bishan,95.9
+2023-08-14,Bukit Batok,80.0
+2023-08-14,Bukit Merah,141.3
+2023-08-14,Bukit Panjang,121.8
+2023-08-14,Clementi,110.9
+2023-08-14,Geylang,79.3
+2023-08-14,Hougang,121.4
+2023-08-14,Jurong East,81.3
+2023-08-14,Jurong West,111.5
+2023-08-14,Kallang,102.7
+2023-08-14,Marine Parade,68.8
+2023-08-14,Pasir Ris,69.3
+2023-08-14,Punggol,51.5
+2023-08-14,Queenstown,98.9
+2023-08-14,Sengkang,64.0
+2023-08-14,Serangoon,86.0
+2023-08-14,Tampines,97.2
+2023-08-14,Toa Payoh,63.0
+2023-08-14,Woodlands,119.2
+2023-08-14,Yishun,66.6
+2023-08-14,Choa Chu Kang,97.0
+2023-08-14,Sembawang,115.1
+2023-08-21,Ang Mo Kio,142.0
+2023-08-21,Bedok,134.8
+2023-08-21,Bishan,114.2
+2023-08-21,Bukit Batok,132.3
+2023-08-21,Bukit Merah,158.4
+2023-08-21,Bukit Panjang,145.8
+2023-08-21,Clementi,120.0
+2023-08-21,Geylang,133.1
+2023-08-21,Hougang,126.0
+2023-08-21,Jurong East,131.9
+2023-08-21,Jurong West,126.9
+2023-08-21,Kallang,120.0
+2023-08-21,Marine Parade,109.5
+2023-08-21,Pasir Ris,152.3
+2023-08-21,Punggol,82.7
+2023-08-21,Queenstown,90.7
+2023-08-21,Sengkang,120.9
+2023-08-21,Serangoon,136.3
+2023-08-21,Tampines,129.9
+2023-08-21,Toa Payoh,149.0
+2023-08-21,Woodlands,124.5
+2023-08-21,Yishun,172.6
+2023-08-21,Choa Chu Kang,90.6
+2023-08-21,Sembawang,126.3
+2023-08-28,Ang Mo Kio,82.1
+2023-08-28,Bedok,68.9
+2023-08-28,Bishan,127.8
+2023-08-28,Bukit Batok,73.2
+2023-08-28,Bukit Merah,84.8
+2023-08-28,Bukit Panjang,89.2
+2023-08-28,Clementi,86.9
+2023-08-28,Geylang,91.9
+2023-08-28,Hougang,72.9
+2023-08-28,Jurong East,69.2
+2023-08-28,Jurong West,78.5
+2023-08-28,Kallang,78.1
+2023-08-28,Marine Parade,80.4
+2023-08-28,Pasir Ris,63.2
+2023-08-28,Punggol,81.4
+2023-08-28,Queenstown,110.5
+2023-08-28,Sengkang,87.0
+2023-08-28,Serangoon,85.2
+2023-08-28,Tampines,60.6
+2023-08-28,Toa Payoh,130.3
+2023-08-28,Woodlands,64.9
+2023-08-28,Yishun,114.8
+2023-08-28,Choa Chu Kang,96.7
+2023-08-28,Sembawang,93.1
+2023-09-04,Ang Mo Kio,170.8
+2023-09-04,Bedok,130.6
+2023-09-04,Bishan,140.6
+2023-09-04,Bukit Batok,120.4
+2023-09-04,Bukit Merah,137.0
+2023-09-04,Bukit Panjang,182.0
+2023-09-04,Clementi,86.5
+2023-09-04,Geylang,145.3
+2023-09-04,Hougang,160.5
+2023-09-04,Jurong East,128.3
+2023-09-04,Jurong West,139.2
+2023-09-04,Kallang,133.1
+2023-09-04,Marine Parade,111.0
+2023-09-04,Pasir Ris,156.9
+2023-09-04,Punggol,70.4
+2023-09-04,Queenstown,158.8
+2023-09-04,Sengkang,96.9
+2023-09-04,Serangoon,139.0
+2023-09-04,Tampines,126.3
+2023-09-04,Toa Payoh,165.5
+2023-09-04,Woodlands,105.6
+2023-09-04,Yishun,161.6
+2023-09-04,Choa Chu Kang,171.3
+2023-09-04,Sembawang,125.1
+2023-09-11,Ang Mo Kio,125.1
+2023-09-11,Bedok,107.4
+2023-09-11,Bishan,129.5
+2023-09-11,Bukit Batok,83.0
+2023-09-11,Bukit Merah,124.5
+2023-09-11,Bukit Panjang,124.6
+2023-09-11,Clementi,94.0
+2023-09-11,Geylang,89.3
+2023-09-11,Hougang,77.6
+2023-09-11,Jurong East,119.9
+2023-09-11,Jurong West,143.1
+2023-09-11,Kallang,136.6
+2023-09-11,Marine Parade,97.1
+2023-09-11,Pasir Ris,80.4
+2023-09-11,Punggol,92.3
+2023-09-11,Queenstown,134.6
+2023-09-11,Sengkang,113.5
+2023-09-11,Serangoon,112.2
+2023-09-11,Tampines,121.3
+2023-09-11,Toa Payoh,98.6
+2023-09-11,Woodlands,97.0
+2023-09-11,Yishun,101.2
+2023-09-11,Choa Chu Kang,114.9
+2023-09-11,Sembawang,137.2
+2023-09-18,Ang Mo Kio,116.1
+2023-09-18,Bedok,107.9
+2023-09-18,Bishan,163.5
+2023-09-18,Bukit Batok,92.0
+2023-09-18,Bukit Merah,119.9
+2023-09-18,Bukit Panjang,103.0
+2023-09-18,Clementi,113.0
+2023-09-18,Geylang,113.4
+2023-09-18,Hougang,86.2
+2023-09-18,Jurong East,132.3
+2023-09-18,Jurong West,146.5
+2023-09-18,Kallang,103.9
+2023-09-18,Marine Parade,57.4
+2023-09-18,Pasir Ris,127.1
+2023-09-18,Punggol,81.0
+2023-09-18,Queenstown,121.7
+2023-09-18,Sengkang,64.2
+2023-09-18,Serangoon,137.1
+2023-09-18,Tampines,87.2
+2023-09-18,Toa Payoh,141.7
+2023-09-18,Woodlands,114.0
+2023-09-18,Yishun,106.9
+2023-09-18,Choa Chu Kang,100.0
+2023-09-18,Sembawang,139.7
+2023-09-25,Ang Mo Kio,208.9
+2023-09-25,Bedok,249.4
+2023-09-25,Bishan,244.3
+2023-09-25,Bukit Batok,238.9
+2023-09-25,Bukit Merah,227.9
+2023-09-25,Bukit Panjang,241.8
+2023-09-25,Clementi,204.0
+2023-09-25,Geylang,218.9
+2023-09-25,Hougang,218.7
+2023-09-25,Jurong East,195.2
+2023-09-25,Jurong West,219.7
+2023-09-25,Kallang,153.2
+2023-09-25,Marine Parade,190.1
+2023-09-25,Pasir Ris,179.0
+2023-09-25,Punggol,170.9
+2023-09-25,Queenstown,182.8
+2023-09-25,Sengkang,191.7
+2023-09-25,Serangoon,237.9
+2023-09-25,Tampines,214.3
+2023-09-25,Toa Payoh,258.2
+2023-09-25,Woodlands,243.6
+2023-09-25,Yishun,234.5
+2023-09-25,Choa Chu Kang,198.1
+2023-09-25,Sembawang,261.0
+2023-10-02,Ang Mo Kio,218.8
+2023-10-02,Bedok,203.4
+2023-10-02,Bishan,164.2
+2023-10-02,Bukit Batok,165.8
+2023-10-02,Bukit Merah,198.8
+2023-10-02,Bukit Panjang,188.9
+2023-10-02,Clementi,168.2
+2023-10-02,Geylang,182.7
+2023-10-02,Hougang,149.6
+2023-10-02,Jurong East,174.8
+2023-10-02,Jurong West,172.5
+2023-10-02,Kallang,168.8
+2023-10-02,Marine Parade,169.3
+2023-10-02,Pasir Ris,152.9
+2023-10-02,Punggol,169.1
+2023-10-02,Queenstown,183.3
+2023-10-02,Sengkang,135.9
+2023-10-02,Serangoon,182.5
+2023-10-02,Tampines,207.1
+2023-10-02,Toa Payoh,189.3
+2023-10-02,Woodlands,177.6
+2023-10-02,Yishun,216.3
+2023-10-02,Choa Chu Kang,193.4
+2023-10-02,Sembawang,202.0
+2023-10-09,Ang Mo Kio,249.6
+2023-10-09,Bedok,158.5
+2023-10-09,Bishan,202.5
+2023-10-09,Bukit Batok,175.8
+2023-10-09,Bukit Merah,260.4
+2023-10-09,Bukit Panjang,212.3
+2023-10-09,Clementi,182.8
+2023-10-09,Geylang,195.3
+2023-10-09,Hougang,186.5
+2023-10-09,Jurong East,189.1
+2023-10-09,Jurong West,176.8
+2023-10-09,Kallang,220.5
+2023-10-09,Marine Parade,186.7
+2023-10-09,Pasir Ris,205.0
+2023-10-09,Punggol,167.9
+2023-10-09,Queenstown,167.8
+2023-10-09,Sengkang,136.8
+2023-10-09,Serangoon,213.7
+2023-10-09,Tampines,218.4
+2023-10-09,Toa Payoh,244.3
+2023-10-09,Woodlands,217.1
+2023-10-09,Yishun,220.9
+2023-10-09,Choa Chu Kang,212.6
+2023-10-09,Sembawang,240.9
+2023-10-16,Ang Mo Kio,244.6
+2023-10-16,Bedok,187.0
+2023-10-16,Bishan,210.5
+2023-10-16,Bukit Batok,155.0
+2023-10-16,Bukit Merah,240.7
+2023-10-16,Bukit Panjang,227.1
+2023-10-16,Clementi,188.2
+2023-10-16,Geylang,247.1
+2023-10-16,Hougang,180.9
+2023-10-16,Jurong East,206.6
+2023-10-16,Jurong West,193.8
+2023-10-16,Kallang,203.8
+2023-10-16,Marine Parade,186.8
+2023-10-16,Pasir Ris,212.2
+2023-10-16,Punggol,167.0
+2023-10-16,Queenstown,191.8
+2023-10-16,Sengkang,158.8
+2023-10-16,Serangoon,210.5
+2023-10-16,Tampines,221.2
+2023-10-16,Toa Payoh,243.4
+2023-10-16,Woodlands,217.5
+2023-10-16,Yishun,230.8
+2023-10-16,Choa Chu Kang,197.4
+2023-10-16,Sembawang,216.6
+2023-10-23,Ang Mo Kio,203.8
+2023-10-23,Bedok,187.9
+2023-10-23,Bishan,207.8
+2023-10-23,Bukit Batok,189.7
+2023-10-23,Bukit Merah,192.4
+2023-10-23,Bukit Panjang,188.1
+2023-10-23,Clementi,141.5
+2023-10-23,Geylang,175.3
+2023-10-23,Hougang,173.3
+2023-10-23,Jurong East,193.1
+2023-10-23,Jurong West,184.4
+2023-10-23,Kallang,209.1
+2023-10-23,Marine Parade,180.5
+2023-10-23,Pasir Ris,217.5
+2023-10-23,Punggol,159.7
+2023-10-23,Queenstown,164.1
+2023-10-23,Sengkang,153.1
+2023-10-23,Serangoon,177.2
+2023-10-23,Tampines,211.2
+2023-10-23,Toa Payoh,182.0
+2023-10-23,Woodlands,214.3
+2023-10-23,Yishun,193.1
+2023-10-23,Choa Chu Kang,166.9
+2023-10-23,Sembawang,207.4
+2023-10-30,Ang Mo Kio,206.6
+2023-10-30,Bedok,156.0
+2023-10-30,Bishan,189.2
+2023-10-30,Bukit Batok,193.5
+2023-10-30,Bukit Merah,218.1
+2023-10-30,Bukit Panjang,190.8
+2023-10-30,Clementi,174.0
+2023-10-30,Geylang,213.8
+2023-10-30,Hougang,195.1
+2023-10-30,Jurong East,213.3
+2023-10-30,Jurong West,198.5
+2023-10-30,Kallang,175.3
+2023-10-30,Marine Parade,156.7
+2023-10-30,Pasir Ris,191.5
+2023-10-30,Punggol,145.7
+2023-10-30,Queenstown,165.2
+2023-10-30,Sengkang,187.3
+2023-10-30,Serangoon,206.7
+2023-10-30,Tampines,194.7
+2023-10-30,Toa Payoh,206.0
+2023-10-30,Woodlands,193.3
+2023-10-30,Yishun,200.8
+2023-10-30,Choa Chu Kang,206.0
+2023-10-30,Sembawang,240.0
+2023-11-06,Ang Mo Kio,216.9
+2023-11-06,Bedok,175.9
+2023-11-06,Bishan,216.0
+2023-11-06,Bukit Batok,172.4
+2023-11-06,Bukit Merah,208.3
+2023-11-06,Bukit Panjang,219.4
+2023-11-06,Clementi,206.8
+2023-11-06,Geylang,198.4
+2023-11-06,Hougang,191.7
+2023-11-06,Jurong East,210.7
+2023-11-06,Jurong West,224.5
+2023-11-06,Kallang,225.7
+2023-11-06,Marine Parade,185.3
+2023-11-06,Pasir Ris,188.6
+2023-11-06,Punggol,211.4
+2023-11-06,Queenstown,227.7
+2023-11-06,Sengkang,222.3
+2023-11-06,Serangoon,248.6
+2023-11-06,Tampines,181.9
+2023-11-06,Toa Payoh,261.8
+2023-11-06,Woodlands,230.8
+2023-11-06,Yishun,210.4
+2023-11-06,Choa Chu Kang,202.7
+2023-11-06,Sembawang,246.7
+2023-11-13,Ang Mo Kio,287.7
+2023-11-13,Bedok,256.8
+2023-11-13,Bishan,255.0
+2023-11-13,Bukit Batok,206.3
+2023-11-13,Bukit Merah,240.9
+2023-11-13,Bukit Panjang,257.9
+2023-11-13,Clementi,221.0
+2023-11-13,Geylang,248.8
+2023-11-13,Hougang,234.4
+2023-11-13,Jurong East,219.5
+2023-11-13,Jurong West,263.7
+2023-11-13,Kallang,227.3
+2023-11-13,Marine Parade,201.9
+2023-11-13,Pasir Ris,225.1
+2023-11-13,Punggol,206.9
+2023-11-13,Queenstown,218.8
+2023-11-13,Sengkang,218.8
+2023-11-13,Serangoon,271.3
+2023-11-13,Tampines,229.4
+2023-11-13,Toa Payoh,239.3
+2023-11-13,Woodlands,277.9
+2023-11-13,Yishun,296.7
+2023-11-13,Choa Chu Kang,205.1
+2023-11-13,Sembawang,282.9
+2023-11-20,Ang Mo Kio,295.1
+2023-11-20,Bedok,263.3
+2023-11-20,Bishan,266.3
+2023-11-20,Bukit Batok,206.3
+2023-11-20,Bukit Merah,327.2
+2023-11-20,Bukit Panjang,261.4
+2023-11-20,Clementi,258.6
+2023-11-20,Geylang,289.9
+2023-11-20,Hougang,237.0
+2023-11-20,Jurong East,253.3
+2023-11-20,Jurong West,244.5
+2023-11-20,Kallang,271.5
+2023-11-20,Marine Parade,246.9
+2023-11-20,Pasir Ris,260.5
+2023-11-20,Punggol,221.6
+2023-11-20,Queenstown,278.5
+2023-11-20,Sengkang,235.4
+2023-11-20,Serangoon,262.7
+2023-11-20,Tampines,260.2
+2023-11-20,Toa Payoh,308.4
+2023-11-20,Woodlands,227.9
+2023-11-20,Yishun,296.2
+2023-11-20,Choa Chu Kang,265.6
+2023-11-20,Sembawang,285.1
+2023-11-27,Ang Mo Kio,275.3
+2023-11-27,Bedok,274.0
+2023-11-27,Bishan,245.7
+2023-11-27,Bukit Batok,231.3
+2023-11-27,Bukit Merah,272.8
+2023-11-27,Bukit Panjang,294.4
+2023-11-27,Clementi,259.8
+2023-11-27,Geylang,247.1
+2023-11-27,Hougang,211.5
+2023-11-27,Jurong East,254.7
+2023-11-27,Jurong West,257.2
+2023-11-27,Kallang,259.1
+2023-11-27,Marine Parade,213.0
+2023-11-27,Pasir Ris,201.6
+2023-11-27,Punggol,212.2
+2023-11-27,Queenstown,223.7
+2023-11-27,Sengkang,222.6
+2023-11-27,Serangoon,296.3
+2023-11-27,Tampines,224.8
+2023-11-27,Toa Payoh,301.2
+2023-11-27,Woodlands,249.4
+2023-11-27,Yishun,276.9
+2023-11-27,Choa Chu Kang,258.3
+2023-11-27,Sembawang,289.3
+2023-12-04,Ang Mo Kio,290.9
+2023-12-04,Bedok,273.3
+2023-12-04,Bishan,276.5
+2023-12-04,Bukit Batok,214.4
+2023-12-04,Bukit Merah,312.2
+2023-12-04,Bukit Panjang,249.8
+2023-12-04,Clementi,196.6
+2023-12-04,Geylang,296.4
+2023-12-04,Hougang,263.2
+2023-12-04,Jurong East,249.2
+2023-12-04,Jurong West,275.1
+2023-12-04,Kallang,303.1
+2023-12-04,Marine Parade,208.4
+2023-12-04,Pasir Ris,234.0
+2023-12-04,Punggol,245.5
+2023-12-04,Queenstown,258.7
+2023-12-04,Sengkang,274.4
+2023-12-04,Serangoon,248.4
+2023-12-04,Tampines,244.1
+2023-12-04,Toa Payoh,310.5
+2023-12-04,Woodlands,285.9
+2023-12-04,Yishun,324.4
+2023-12-04,Choa Chu Kang,267.5
+2023-12-04,Sembawang,310.8
+2023-12-11,Ang Mo Kio,334.9
+2023-12-11,Bedok,234.4
+2023-12-11,Bishan,295.3
+2023-12-11,Bukit Batok,209.6
+2023-12-11,Bukit Merah,310.1
+2023-12-11,Bukit Panjang,254.4
+2023-12-11,Clementi,222.4
+2023-12-11,Geylang,269.5
+2023-12-11,Hougang,252.9
+2023-12-11,Jurong East,267.5
+2023-12-11,Jurong West,253.1
+2023-12-11,Kallang,273.8
+2023-12-11,Marine Parade,208.7
+2023-12-11,Pasir Ris,226.6
+2023-12-11,Punggol,218.6
+2023-12-11,Queenstown,243.0
+2023-12-11,Sengkang,292.4
+2023-12-11,Serangoon,289.3
+2023-12-11,Tampines,234.7
+2023-12-11,Toa Payoh,287.7
+2023-12-11,Woodlands,287.9
+2023-12-11,Yishun,338.1
+2023-12-11,Choa Chu Kang,222.7
+2023-12-11,Sembawang,258.7
+2023-12-18,Ang Mo Kio,280.6
+2023-12-18,Bedok,247.6
+2023-12-18,Bishan,251.9
+2023-12-18,Bukit Batok,175.1
+2023-12-18,Bukit Merah,283.8
+2023-12-18,Bukit Panjang,235.6
+2023-12-18,Clementi,214.4
+2023-12-18,Geylang,287.1
+2023-12-18,Hougang,210.7
+2023-12-18,Jurong East,201.2
+2023-12-18,Jurong West,238.3
+2023-12-18,Kallang,224.6
+2023-12-18,Marine Parade,205.1
+2023-12-18,Pasir Ris,205.8
+2023-12-18,Punggol,187.0
+2023-12-18,Queenstown,193.9
+2023-12-18,Sengkang,212.3
+2023-12-18,Serangoon,250.9
+2023-12-18,Tampines,177.4
+2023-12-18,Toa Payoh,268.7
+2023-12-18,Woodlands,234.8
+2023-12-18,Yishun,245.9
+2023-12-18,Choa Chu Kang,264.8
+2023-12-18,Sembawang,280.4
+2023-12-25,Ang Mo Kio,289.3
+2023-12-25,Bedok,283.4
+2023-12-25,Bishan,283.5
+2023-12-25,Bukit Batok,228.1
+2023-12-25,Bukit Merah,287.7
+2023-12-25,Bukit Panjang,287.9
+2023-12-25,Clementi,244.8
+2023-12-25,Geylang,253.4
+2023-12-25,Hougang,199.0
+2023-12-25,Jurong East,236.6
+2023-12-25,Jurong West,252.5
+2023-12-25,Kallang,262.2
+2023-12-25,Marine Parade,240.0
+2023-12-25,Pasir Ris,234.0
+2023-12-25,Punggol,214.4
+2023-12-25,Queenstown,241.8
+2023-12-25,Sengkang,252.5
+2023-12-25,Serangoon,226.1
+2023-12-25,Tampines,241.2
+2023-12-25,Toa Payoh,293.0
+2023-12-25,Woodlands,282.4
+2023-12-25,Yishun,276.4
+2023-12-25,Choa Chu Kang,208.2
+2023-12-25,Sembawang,298.6
+2024-01-01,Ang Mo Kio,179.9
+2024-01-01,Bedok,149.9
+2024-01-01,Bishan,195.8
+2024-01-01,Bukit Batok,146.9
+2024-01-01,Bukit Merah,243.9
+2024-01-01,Bukit Panjang,184.7
+2024-01-01,Clementi,186.8
+2024-01-01,Geylang,211.5
+2024-01-01,Hougang,158.7
+2024-01-01,Jurong East,216.1
+2024-01-01,Jurong West,199.4
+2024-01-01,Kallang,220.6
+2024-01-01,Marine Parade,183.5
+2024-01-01,Pasir Ris,184.0
+2024-01-01,Punggol,170.6
+2024-01-01,Queenstown,186.3
+2024-01-01,Sengkang,147.3
+2024-01-01,Serangoon,197.0
+2024-01-01,Tampines,204.5
+2024-01-01,Toa Payoh,239.2
+2024-01-01,Woodlands,172.3
+2024-01-01,Yishun,217.4
+2024-01-01,Choa Chu Kang,180.5
+2024-01-01,Sembawang,204.5
+2024-01-08,Ang Mo Kio,297.9
+2024-01-08,Bedok,263.5
+2024-01-08,Bishan,320.1
+2024-01-08,Bukit Batok,249.8
+2024-01-08,Bukit Merah,303.1
+2024-01-08,Bukit Panjang,291.8
+2024-01-08,Clementi,210.3
+2024-01-08,Geylang,283.6
+2024-01-08,Hougang,269.8
+2024-01-08,Jurong East,245.0
+2024-01-08,Jurong West,261.3
+2024-01-08,Kallang,260.0
+2024-01-08,Marine Parade,201.3
+2024-01-08,Pasir Ris,236.3
+2024-01-08,Punggol,215.7
+2024-01-08,Queenstown,221.3
+2024-01-08,Sengkang,244.4
+2024-01-08,Serangoon,298.9
+2024-01-08,Tampines,244.3
+2024-01-08,Toa Payoh,329.6
+2024-01-08,Woodlands,278.0
+2024-01-08,Yishun,317.2
+2024-01-08,Choa Chu Kang,241.5
+2024-01-08,Sembawang,313.7
+2024-01-15,Ang Mo Kio,286.3
+2024-01-15,Bedok,247.7
+2024-01-15,Bishan,248.3
+2024-01-15,Bukit Batok,243.0
+2024-01-15,Bukit Merah,273.0
+2024-01-15,Bukit Panjang,251.8
+2024-01-15,Clementi,203.1
+2024-01-15,Geylang,280.6
+2024-01-15,Hougang,195.4
+2024-01-15,Jurong East,253.5
+2024-01-15,Jurong West,290.0
+2024-01-15,Kallang,274.8
+2024-01-15,Marine Parade,230.0
+2024-01-15,Pasir Ris,258.9
+2024-01-15,Punggol,196.8
+2024-01-15,Queenstown,269.9
+2024-01-15,Sengkang,226.9
+2024-01-15,Serangoon,270.3
+2024-01-15,Tampines,247.2
+2024-01-15,Toa Payoh,299.2
+2024-01-15,Woodlands,248.2
+2024-01-15,Yishun,288.2
+2024-01-15,Choa Chu Kang,221.5
+2024-01-15,Sembawang,310.1
+2024-01-22,Ang Mo Kio,312.3
+2024-01-22,Bedok,293.6
+2024-01-22,Bishan,317.0
+2024-01-22,Bukit Batok,254.0
+2024-01-22,Bukit Merah,333.9
+2024-01-22,Bukit Panjang,265.4
+2024-01-22,Clementi,265.7
+2024-01-22,Geylang,311.2
+2024-01-22,Hougang,233.0
+2024-01-22,Jurong East,265.6
+2024-01-22,Jurong West,301.0
+2024-01-22,Kallang,293.4
+2024-01-22,Marine Parade,248.7
+2024-01-22,Pasir Ris,301.9
+2024-01-22,Punggol,263.6
+2024-01-22,Queenstown,244.2
+2024-01-22,Sengkang,277.2
+2024-01-22,Serangoon,331.2
+2024-01-22,Tampines,292.4
+2024-01-22,Toa Payoh,346.4
+2024-01-22,Woodlands,330.6
+2024-01-22,Yishun,342.2
+2024-01-22,Choa Chu Kang,281.1
+2024-01-22,Sembawang,342.6
+2024-01-29,Ang Mo Kio,301.0
+2024-01-29,Bedok,222.6
+2024-01-29,Bishan,231.4
+2024-01-29,Bukit Batok,195.3
+2024-01-29,Bukit Merah,284.4
+2024-01-29,Bukit Panjang,249.8
+2024-01-29,Clementi,204.6
+2024-01-29,Geylang,260.2
+2024-01-29,Hougang,181.6
+2024-01-29,Jurong East,228.1
+2024-01-29,Jurong West,273.7
+2024-01-29,Kallang,257.6
+2024-01-29,Marine Parade,215.4
+2024-01-29,Pasir Ris,259.6
+2024-01-29,Punggol,200.2
+2024-01-29,Queenstown,212.2
+2024-01-29,Sengkang,244.3
+2024-01-29,Serangoon,277.2
+2024-01-29,Tampines,248.3
+2024-01-29,Toa Payoh,267.1
+2024-01-29,Woodlands,241.9
+2024-01-29,Yishun,242.4
+2024-01-29,Choa Chu Kang,252.3
+2024-01-29,Sembawang,289.5
+2024-02-05,Ang Mo Kio,184.3
+2024-02-05,Bedok,164.6
+2024-02-05,Bishan,218.5
+2024-02-05,Bukit Batok,188.4
+2024-02-05,Bukit Merah,214.0
+2024-02-05,Bukit Panjang,167.4
+2024-02-05,Clementi,196.2
+2024-02-05,Geylang,176.1
+2024-02-05,Hougang,151.6
+2024-02-05,Jurong East,175.8
+2024-02-05,Jurong West,219.6
+2024-02-05,Kallang,202.0
+2024-02-05,Marine Parade,159.5
+2024-02-05,Pasir Ris,180.0
+2024-02-05,Punggol,152.0
+2024-02-05,Queenstown,180.1
+2024-02-05,Sengkang,114.8
+2024-02-05,Serangoon,184.4
+2024-02-05,Tampines,182.7
+2024-02-05,Toa Payoh,179.7
+2024-02-05,Woodlands,189.1
+2024-02-05,Yishun,196.9
+2024-02-05,Choa Chu Kang,207.6
+2024-02-05,Sembawang,232.4
+2024-02-12,Ang Mo Kio,143.6
+2024-02-12,Bedok,136.8
+2024-02-12,Bishan,174.1
+2024-02-12,Bukit Batok,129.3
+2024-02-12,Bukit Merah,169.2
+2024-02-12,Bukit Panjang,164.3
+2024-02-12,Clementi,134.1
+2024-02-12,Geylang,142.9
+2024-02-12,Hougang,123.6
+2024-02-12,Jurong East,139.7
+2024-02-12,Jurong West,133.2
+2024-02-12,Kallang,168.2
+2024-02-12,Marine Parade,127.0
+2024-02-12,Pasir Ris,138.4
+2024-02-12,Punggol,145.1
+2024-02-12,Queenstown,133.1
+2024-02-12,Sengkang,129.0
+2024-02-12,Serangoon,142.9
+2024-02-12,Tampines,149.5
+2024-02-12,Toa Payoh,168.7
+2024-02-12,Woodlands,132.1
+2024-02-12,Yishun,157.6
+2024-02-12,Choa Chu Kang,125.1
+2024-02-12,Sembawang,147.0
+2024-02-19,Ang Mo Kio,165.2
+2024-02-19,Bedok,147.5
+2024-02-19,Bishan,165.2
+2024-02-19,Bukit Batok,131.1
+2024-02-19,Bukit Merah,176.9
+2024-02-19,Bukit Panjang,172.1
+2024-02-19,Clementi,155.0
+2024-02-19,Geylang,151.1
+2024-02-19,Hougang,115.0
+2024-02-19,Jurong East,127.6
+2024-02-19,Jurong West,155.9
+2024-02-19,Kallang,155.5
+2024-02-19,Marine Parade,117.4
+2024-02-19,Pasir Ris,124.1
+2024-02-19,Punggol,123.7
+2024-02-19,Queenstown,152.1
+2024-02-19,Sengkang,157.3
+2024-02-19,Serangoon,156.1
+2024-02-19,Tampines,148.0
+2024-02-19,Toa Payoh,159.6
+2024-02-19,Woodlands,158.8
+2024-02-19,Yishun,159.6
+2024-02-19,Choa Chu Kang,163.1
+2024-02-19,Sembawang,140.9
+2024-02-26,Ang Mo Kio,224.8
+2024-02-26,Bedok,171.3
+2024-02-26,Bishan,190.8
+2024-02-26,Bukit Batok,171.3
+2024-02-26,Bukit Merah,195.4
+2024-02-26,Bukit Panjang,219.9
+2024-02-26,Clementi,155.9
+2024-02-26,Geylang,205.8
+2024-02-26,Hougang,137.1
+2024-02-26,Jurong East,178.8
+2024-02-26,Jurong West,184.5
+2024-02-26,Kallang,157.9
+2024-02-26,Marine Parade,177.8
+2024-02-26,Pasir Ris,221.4
+2024-02-26,Punggol,189.6
+2024-02-26,Queenstown,200.3
+2024-02-26,Sengkang,174.4
+2024-02-26,Serangoon,226.3
+2024-02-26,Tampines,220.9
+2024-02-26,Toa Payoh,226.7
+2024-02-26,Woodlands,176.7
+2024-02-26,Yishun,212.0
+2024-02-26,Choa Chu Kang,224.6
+2024-02-26,Sembawang,220.5
+2024-03-04,Ang Mo Kio,203.1
+2024-03-04,Bedok,154.7
+2024-03-04,Bishan,192.5
+2024-03-04,Bukit Batok,131.1
+2024-03-04,Bukit Merah,147.3
+2024-03-04,Bukit Panjang,147.0
+2024-03-04,Clementi,171.3
+2024-03-04,Geylang,161.6
+2024-03-04,Hougang,136.7
+2024-03-04,Jurong East,145.2
+2024-03-04,Jurong West,206.7
+2024-03-04,Kallang,198.0
+2024-03-04,Marine Parade,179.6
+2024-03-04,Pasir Ris,149.6
+2024-03-04,Punggol,141.2
+2024-03-04,Queenstown,120.8
+2024-03-04,Sengkang,177.5
+2024-03-04,Serangoon,146.9
+2024-03-04,Tampines,163.4
+2024-03-04,Toa Payoh,159.4
+2024-03-04,Woodlands,150.5
+2024-03-04,Yishun,163.0
+2024-03-04,Choa Chu Kang,142.2
+2024-03-04,Sembawang,169.0
+2024-03-11,Ang Mo Kio,230.6
+2024-03-11,Bedok,191.3
+2024-03-11,Bishan,218.4
+2024-03-11,Bukit Batok,182.1
+2024-03-11,Bukit Merah,220.0
+2024-03-11,Bukit Panjang,187.1
+2024-03-11,Clementi,164.5
+2024-03-11,Geylang,232.9
+2024-03-11,Hougang,179.5
+2024-03-11,Jurong East,172.2
+2024-03-11,Jurong West,219.1
+2024-03-11,Kallang,216.4
+2024-03-11,Marine Parade,179.6
+2024-03-11,Pasir Ris,171.6
+2024-03-11,Punggol,155.6
+2024-03-11,Queenstown,175.6
+2024-03-11,Sengkang,177.9
+2024-03-11,Serangoon,223.8
+2024-03-11,Tampines,205.0
+2024-03-11,Toa Payoh,234.5
+2024-03-11,Woodlands,230.1
+2024-03-11,Yishun,238.7
+2024-03-11,Choa Chu Kang,190.3
+2024-03-11,Sembawang,201.3
+2024-03-18,Ang Mo Kio,158.6
+2024-03-18,Bedok,121.1
+2024-03-18,Bishan,136.2
+2024-03-18,Bukit Batok,110.3
+2024-03-18,Bukit Merah,167.9
+2024-03-18,Bukit Panjang,144.1
+2024-03-18,Clementi,80.3
+2024-03-18,Geylang,106.8
+2024-03-18,Hougang,114.4
+2024-03-18,Jurong East,144.2
+2024-03-18,Jurong West,95.7
+2024-03-18,Kallang,137.8
+2024-03-18,Marine Parade,110.3
+2024-03-18,Pasir Ris,164.2
+2024-03-18,Punggol,113.1
+2024-03-18,Queenstown,142.7
+2024-03-18,Sengkang,135.0
+2024-03-18,Serangoon,109.5
+2024-03-18,Tampines,157.5
+2024-03-18,Toa Payoh,166.4
+2024-03-18,Woodlands,155.2
+2024-03-18,Yishun,239.2
+2024-03-18,Choa Chu Kang,96.2
+2024-03-18,Sembawang,195.1
+2024-03-25,Ang Mo Kio,193.7
+2024-03-25,Bedok,190.7
+2024-03-25,Bishan,223.7
+2024-03-25,Bukit Batok,156.7
+2024-03-25,Bukit Merah,212.5
+2024-03-25,Bukit Panjang,197.8
+2024-03-25,Clementi,201.0
+2024-03-25,Geylang,201.0
+2024-03-25,Hougang,207.2
+2024-03-25,Jurong East,178.4
+2024-03-25,Jurong West,219.2
+2024-03-25,Kallang,199.8
+2024-03-25,Marine Parade,185.7
+2024-03-25,Pasir Ris,170.3
+2024-03-25,Punggol,185.5
+2024-03-25,Queenstown,192.9
+2024-03-25,Sengkang,173.9
+2024-03-25,Serangoon,211.4
+2024-03-25,Tampines,231.4
+2024-03-25,Toa Payoh,231.6
+2024-03-25,Woodlands,190.7
+2024-03-25,Yishun,202.7
+2024-03-25,Choa Chu Kang,204.8
+2024-03-25,Sembawang,230.7
+2024-04-01,Ang Mo Kio,221.1
+2024-04-01,Bedok,185.5
+2024-04-01,Bishan,201.8
+2024-04-01,Bukit Batok,138.1
+2024-04-01,Bukit Merah,175.1
+2024-04-01,Bukit Panjang,195.1
+2024-04-01,Clementi,166.4
+2024-04-01,Geylang,207.1
+2024-04-01,Hougang,138.5
+2024-04-01,Jurong East,156.2
+2024-04-01,Jurong West,146.6
+2024-04-01,Kallang,168.1
+2024-04-01,Marine Parade,163.8
+2024-04-01,Pasir Ris,153.1
+2024-04-01,Punggol,156.6
+2024-04-01,Queenstown,156.9
+2024-04-01,Sengkang,163.8
+2024-04-01,Serangoon,158.1
+2024-04-01,Tampines,170.9
+2024-04-01,Toa Payoh,133.1
+2024-04-01,Woodlands,168.9
+2024-04-01,Yishun,158.6
+2024-04-01,Choa Chu Kang,188.2
+2024-04-01,Sembawang,206.7
+2024-04-08,Ang Mo Kio,267.0
+2024-04-08,Bedok,221.8
+2024-04-08,Bishan,254.3
+2024-04-08,Bukit Batok,207.9
+2024-04-08,Bukit Merah,266.8
+2024-04-08,Bukit Panjang,209.5
+2024-04-08,Clementi,162.0
+2024-04-08,Geylang,203.0
+2024-04-08,Hougang,193.0
+2024-04-08,Jurong East,223.7
+2024-04-08,Jurong West,214.2
+2024-04-08,Kallang,250.3
+2024-04-08,Marine Parade,179.4
+2024-04-08,Pasir Ris,204.2
+2024-04-08,Punggol,172.8
+2024-04-08,Queenstown,174.1
+2024-04-08,Sengkang,211.9
+2024-04-08,Serangoon,272.8
+2024-04-08,Tampines,221.7
+2024-04-08,Toa Payoh,217.1
+2024-04-08,Woodlands,243.0
+2024-04-08,Yishun,219.4
+2024-04-08,Choa Chu Kang,192.1
+2024-04-08,Sembawang,247.1
+2024-04-15,Ang Mo Kio,189.4
+2024-04-15,Bedok,151.9
+2024-04-15,Bishan,191.9
+2024-04-15,Bukit Batok,116.0
+2024-04-15,Bukit Merah,185.1
+2024-04-15,Bukit Panjang,162.9
+2024-04-15,Clementi,139.8
+2024-04-15,Geylang,185.9
+2024-04-15,Hougang,150.7
+2024-04-15,Jurong East,151.0
+2024-04-15,Jurong West,128.9
+2024-04-15,Kallang,139.7
+2024-04-15,Marine Parade,127.4
+2024-04-15,Pasir Ris,148.6
+2024-04-15,Punggol,107.3
+2024-04-15,Queenstown,193.4
+2024-04-15,Sengkang,172.5
+2024-04-15,Serangoon,175.6
+2024-04-15,Tampines,154.3
+2024-04-15,Toa Payoh,170.0
+2024-04-15,Woodlands,136.8
+2024-04-15,Yishun,174.2
+2024-04-15,Choa Chu Kang,153.4
+2024-04-15,Sembawang,147.9
+2024-04-22,Ang Mo Kio,192.0
+2024-04-22,Bedok,178.2
+2024-04-22,Bishan,179.5
+2024-04-22,Bukit Batok,147.2
+2024-04-22,Bukit Merah,199.4
+2024-04-22,Bukit Panjang,173.5
+2024-04-22,Clementi,121.5
+2024-04-22,Geylang,176.6
+2024-04-22,Hougang,125.3
+2024-04-22,Jurong East,177.0
+2024-04-22,Jurong West,145.6
+2024-04-22,Kallang,200.1
+2024-04-22,Marine Parade,155.3
+2024-04-22,Pasir Ris,174.4
+2024-04-22,Punggol,103.4
+2024-04-22,Queenstown,157.4
+2024-04-22,Sengkang,183.6
+2024-04-22,Serangoon,174.3
+2024-04-22,Tampines,151.0
+2024-04-22,Toa Payoh,184.0
+2024-04-22,Woodlands,174.7
+2024-04-22,Yishun,178.0
+2024-04-22,Choa Chu Kang,192.1
+2024-04-22,Sembawang,193.7
+2024-04-29,Ang Mo Kio,208.1
+2024-04-29,Bedok,151.8
+2024-04-29,Bishan,170.9
+2024-04-29,Bukit Batok,166.1
+2024-04-29,Bukit Merah,149.9
+2024-04-29,Bukit Panjang,163.1
+2024-04-29,Clementi,148.4
+2024-04-29,Geylang,181.5
+2024-04-29,Hougang,136.1
+2024-04-29,Jurong East,156.8
+2024-04-29,Jurong West,124.4
+2024-04-29,Kallang,157.7
+2024-04-29,Marine Parade,148.8
+2024-04-29,Pasir Ris,138.1
+2024-04-29,Punggol,140.9
+2024-04-29,Queenstown,165.1
+2024-04-29,Sengkang,146.0
+2024-04-29,Serangoon,179.2
+2024-04-29,Tampines,145.1
+2024-04-29,Toa Payoh,183.2
+2024-04-29,Woodlands,179.8
+2024-04-29,Yishun,188.8
+2024-04-29,Choa Chu Kang,147.7
+2024-04-29,Sembawang,190.2
+2024-05-06,Ang Mo Kio,156.8
+2024-05-06,Bedok,198.3
+2024-05-06,Bishan,203.2
+2024-05-06,Bukit Batok,164.3
+2024-05-06,Bukit Merah,172.8
+2024-05-06,Bukit Panjang,213.8
+2024-05-06,Clementi,148.2
+2024-05-06,Geylang,182.2
+2024-05-06,Hougang,137.9
+2024-05-06,Jurong East,134.3
+2024-05-06,Jurong West,212.9
+2024-05-06,Kallang,211.9
+2024-05-06,Marine Parade,148.9
+2024-05-06,Pasir Ris,158.3
+2024-05-06,Punggol,144.6
+2024-05-06,Queenstown,163.1
+2024-05-06,Sengkang,142.5
+2024-05-06,Serangoon,185.7
+2024-05-06,Tampines,182.1
+2024-05-06,Toa Payoh,224.4
+2024-05-06,Woodlands,182.9
+2024-05-06,Yishun,170.8
+2024-05-06,Choa Chu Kang,180.7
+2024-05-06,Sembawang,197.2
+2024-05-13,Ang Mo Kio,276.4
+2024-05-13,Bedok,251.8
+2024-05-13,Bishan,239.2
+2024-05-13,Bukit Batok,245.3
+2024-05-13,Bukit Merah,280.8
+2024-05-13,Bukit Panjang,285.1
+2024-05-13,Clementi,199.0
+2024-05-13,Geylang,291.3
+2024-05-13,Hougang,231.6
+2024-05-13,Jurong East,241.7
+2024-05-13,Jurong West,262.0
+2024-05-13,Kallang,247.5
+2024-05-13,Marine Parade,230.4
+2024-05-13,Pasir Ris,235.9
+2024-05-13,Punggol,167.0
+2024-05-13,Queenstown,208.3
+2024-05-13,Sengkang,222.1
+2024-05-13,Serangoon,266.0
+2024-05-13,Tampines,241.6
+2024-05-13,Toa Payoh,301.1
+2024-05-13,Woodlands,208.6
+2024-05-13,Yishun,277.2
+2024-05-13,Choa Chu Kang,199.1
+2024-05-13,Sembawang,289.5
+2024-05-20,Ang Mo Kio,191.8
+2024-05-20,Bedok,127.6
+2024-05-20,Bishan,183.5
+2024-05-20,Bukit Batok,102.0
+2024-05-20,Bukit Merah,191.5
+2024-05-20,Bukit Panjang,140.6
+2024-05-20,Clementi,128.5
+2024-05-20,Geylang,144.8
+2024-05-20,Hougang,154.1
+2024-05-20,Jurong East,158.9
+2024-05-20,Jurong West,161.8
+2024-05-20,Kallang,127.1
+2024-05-20,Marine Parade,108.4
+2024-05-20,Pasir Ris,118.0
+2024-05-20,Punggol,77.7
+2024-05-20,Queenstown,162.3
+2024-05-20,Sengkang,127.7
+2024-05-20,Serangoon,147.7
+2024-05-20,Tampines,174.2
+2024-05-20,Toa Payoh,155.0
+2024-05-20,Woodlands,130.4
+2024-05-20,Yishun,158.6
+2024-05-20,Choa Chu Kang,117.3
+2024-05-20,Sembawang,170.0
+2024-05-27,Ang Mo Kio,195.4
+2024-05-27,Bedok,155.2
+2024-05-27,Bishan,177.8
+2024-05-27,Bukit Batok,159.0
+2024-05-27,Bukit Merah,150.7
+2024-05-27,Bukit Panjang,198.7
+2024-05-27,Clementi,147.3
+2024-05-27,Geylang,165.8
+2024-05-27,Hougang,145.7
+2024-05-27,Jurong East,156.7
+2024-05-27,Jurong West,141.0
+2024-05-27,Kallang,202.2
+2024-05-27,Marine Parade,141.7
+2024-05-27,Pasir Ris,168.0
+2024-05-27,Punggol,159.9
+2024-05-27,Queenstown,137.0
+2024-05-27,Sengkang,163.6
+2024-05-27,Serangoon,172.0
+2024-05-27,Tampines,182.7
+2024-05-27,Toa Payoh,146.4
+2024-05-27,Woodlands,167.1
+2024-05-27,Yishun,175.2
+2024-05-27,Choa Chu Kang,169.4
+2024-05-27,Sembawang,196.7
+2024-06-03,Ang Mo Kio,127.4
+2024-06-03,Bedok,89.4
+2024-06-03,Bishan,71.9
+2024-06-03,Bukit Batok,76.9
+2024-06-03,Bukit Merah,130.3
+2024-06-03,Bukit Panjang,91.0
+2024-06-03,Clementi,89.9
+2024-06-03,Geylang,94.4
+2024-06-03,Hougang,52.5
+2024-06-03,Jurong East,83.8
+2024-06-03,Jurong West,122.0
+2024-06-03,Kallang,59.1
+2024-06-03,Marine Parade,92.1
+2024-06-03,Pasir Ris,74.6
+2024-06-03,Punggol,99.2
+2024-06-03,Queenstown,111.6
+2024-06-03,Sengkang,91.8
+2024-06-03,Serangoon,106.2
+2024-06-03,Tampines,86.3
+2024-06-03,Toa Payoh,89.9
+2024-06-03,Woodlands,138.4
+2024-06-03,Yishun,98.4
+2024-06-03,Choa Chu Kang,130.7
+2024-06-03,Sembawang,98.6
+2024-06-10,Ang Mo Kio,84.9
+2024-06-10,Bedok,112.9
+2024-06-10,Bishan,88.2
+2024-06-10,Bukit Batok,71.4
+2024-06-10,Bukit Merah,83.9
+2024-06-10,Bukit Panjang,93.3
+2024-06-10,Clementi,106.9
+2024-06-10,Geylang,114.6
+2024-06-10,Hougang,108.0
+2024-06-10,Jurong East,104.8
+2024-06-10,Jurong West,83.2
+2024-06-10,Kallang,96.7
+2024-06-10,Marine Parade,68.8
+2024-06-10,Pasir Ris,122.0
+2024-06-10,Punggol,60.5
+2024-06-10,Queenstown,112.3
+2024-06-10,Sengkang,110.2
+2024-06-10,Serangoon,142.9
+2024-06-10,Tampines,91.1
+2024-06-10,Toa Payoh,127.5
+2024-06-10,Woodlands,147.0
+2024-06-10,Yishun,99.9
+2024-06-10,Choa Chu Kang,65.7
+2024-06-10,Sembawang,74.7
+2024-06-17,Ang Mo Kio,149.5
+2024-06-17,Bedok,115.0
+2024-06-17,Bishan,141.8
+2024-06-17,Bukit Batok,109.2
+2024-06-17,Bukit Merah,158.2
+2024-06-17,Bukit Panjang,123.5
+2024-06-17,Clementi,112.7
+2024-06-17,Geylang,104.2
+2024-06-17,Hougang,112.3
+2024-06-17,Jurong East,99.5
+2024-06-17,Jurong West,110.7
+2024-06-17,Kallang,135.4
+2024-06-17,Marine Parade,114.1
+2024-06-17,Pasir Ris,142.3
+2024-06-17,Punggol,128.5
+2024-06-17,Queenstown,125.7
+2024-06-17,Sengkang,70.7
+2024-06-17,Serangoon,157.5
+2024-06-17,Tampines,131.4
+2024-06-17,Toa Payoh,113.5
+2024-06-17,Woodlands,129.9
+2024-06-17,Yishun,107.0
+2024-06-17,Choa Chu Kang,122.0
+2024-06-17,Sembawang,101.4
+2024-06-24,Ang Mo Kio,178.9
+2024-06-24,Bedok,131.9
+2024-06-24,Bishan,151.7
+2024-06-24,Bukit Batok,159.6
+2024-06-24,Bukit Merah,192.0
+2024-06-24,Bukit Panjang,160.1
+2024-06-24,Clementi,127.8
+2024-06-24,Geylang,121.9
+2024-06-24,Hougang,116.3
+2024-06-24,Jurong East,185.2
+2024-06-24,Jurong West,138.4
+2024-06-24,Kallang,164.7
+2024-06-24,Marine Parade,151.7
+2024-06-24,Pasir Ris,123.4
+2024-06-24,Punggol,135.2
+2024-06-24,Queenstown,165.7
+2024-06-24,Sengkang,144.1
+2024-06-24,Serangoon,222.9
+2024-06-24,Tampines,121.3
+2024-06-24,Toa Payoh,197.5
+2024-06-24,Woodlands,154.3
+2024-06-24,Yishun,190.3
+2024-06-24,Choa Chu Kang,158.9
+2024-06-24,Sembawang,160.2
+2024-07-01,Ang Mo Kio,160.5
+2024-07-01,Bedok,112.0
+2024-07-01,Bishan,121.4
+2024-07-01,Bukit Batok,98.2
+2024-07-01,Bukit Merah,148.3
+2024-07-01,Bukit Panjang,136.9
+2024-07-01,Clementi,93.9
+2024-07-01,Geylang,119.9
+2024-07-01,Hougang,110.4
+2024-07-01,Jurong East,81.1
+2024-07-01,Jurong West,140.1
+2024-07-01,Kallang,148.4
+2024-07-01,Marine Parade,116.2
+2024-07-01,Pasir Ris,80.1
+2024-07-01,Punggol,53.5
+2024-07-01,Queenstown,118.0
+2024-07-01,Sengkang,86.5
+2024-07-01,Serangoon,122.7
+2024-07-01,Tampines,140.0
+2024-07-01,Toa Payoh,111.5
+2024-07-01,Woodlands,104.0
+2024-07-01,Yishun,129.1
+2024-07-01,Choa Chu Kang,80.1
+2024-07-01,Sembawang,108.4
+2024-07-08,Ang Mo Kio,114.4
+2024-07-08,Bedok,82.3
+2024-07-08,Bishan,90.2
+2024-07-08,Bukit Batok,81.8
+2024-07-08,Bukit Merah,75.4
+2024-07-08,Bukit Panjang,85.1
+2024-07-08,Clementi,28.5
+2024-07-08,Geylang,102.9
+2024-07-08,Hougang,41.1
+2024-07-08,Jurong East,107.3
+2024-07-08,Jurong West,79.6
+2024-07-08,Kallang,80.3
+2024-07-08,Marine Parade,56.5
+2024-07-08,Pasir Ris,72.3
+2024-07-08,Punggol,97.5
+2024-07-08,Queenstown,27.5
+2024-07-08,Sengkang,101.1
+2024-07-08,Serangoon,93.7
+2024-07-08,Tampines,57.1
+2024-07-08,Toa Payoh,71.2
+2024-07-08,Woodlands,116.4
+2024-07-08,Yishun,72.9
+2024-07-08,Choa Chu Kang,55.8
+2024-07-08,Sembawang,114.6
+2024-07-15,Ang Mo Kio,86.2
+2024-07-15,Bedok,98.0
+2024-07-15,Bishan,136.4
+2024-07-15,Bukit Batok,95.2
+2024-07-15,Bukit Merah,127.1
+2024-07-15,Bukit Panjang,113.4
+2024-07-15,Clementi,82.1
+2024-07-15,Geylang,119.7
+2024-07-15,Hougang,98.0
+2024-07-15,Jurong East,117.4
+2024-07-15,Jurong West,89.7
+2024-07-15,Kallang,62.3
+2024-07-15,Marine Parade,100.2
+2024-07-15,Pasir Ris,96.6
+2024-07-15,Punggol,73.4
+2024-07-15,Queenstown,83.9
+2024-07-15,Sengkang,137.9
+2024-07-15,Serangoon,87.0
+2024-07-15,Tampines,76.3
+2024-07-15,Toa Payoh,108.1
+2024-07-15,Woodlands,118.8
+2024-07-15,Yishun,151.0
+2024-07-15,Choa Chu Kang,103.7
+2024-07-15,Sembawang,80.0
+2024-07-22,Ang Mo Kio,181.4
+2024-07-22,Bedok,147.0
+2024-07-22,Bishan,154.7
+2024-07-22,Bukit Batok,157.6
+2024-07-22,Bukit Merah,203.0
+2024-07-22,Bukit Panjang,137.6
+2024-07-22,Clementi,174.4
+2024-07-22,Geylang,181.6
+2024-07-22,Hougang,172.2
+2024-07-22,Jurong East,127.1
+2024-07-22,Jurong West,144.4
+2024-07-22,Kallang,165.5
+2024-07-22,Marine Parade,147.8
+2024-07-22,Pasir Ris,191.5
+2024-07-22,Punggol,151.8
+2024-07-22,Queenstown,149.1
+2024-07-22,Sengkang,130.1
+2024-07-22,Serangoon,197.9
+2024-07-22,Tampines,142.7
+2024-07-22,Toa Payoh,217.3
+2024-07-22,Woodlands,159.6
+2024-07-22,Yishun,214.9
+2024-07-22,Choa Chu Kang,170.7
+2024-07-22,Sembawang,180.3
+2024-07-29,Ang Mo Kio,122.1
+2024-07-29,Bedok,83.4
+2024-07-29,Bishan,112.8
+2024-07-29,Bukit Batok,98.2
+2024-07-29,Bukit Merah,116.2
+2024-07-29,Bukit Panjang,99.4
+2024-07-29,Clementi,67.5
+2024-07-29,Geylang,110.8
+2024-07-29,Hougang,52.2
+2024-07-29,Jurong East,86.1
+2024-07-29,Jurong West,92.8
+2024-07-29,Kallang,104.5
+2024-07-29,Marine Parade,85.1
+2024-07-29,Pasir Ris,120.1
+2024-07-29,Punggol,121.0
+2024-07-29,Queenstown,77.5
+2024-07-29,Sengkang,137.6
+2024-07-29,Serangoon,96.9
+2024-07-29,Tampines,108.5
+2024-07-29,Toa Payoh,130.0
+2024-07-29,Woodlands,156.1
+2024-07-29,Yishun,107.9
+2024-07-29,Choa Chu Kang,66.0
+2024-07-29,Sembawang,148.6
+2024-08-05,Ang Mo Kio,121.9
+2024-08-05,Bedok,92.2
+2024-08-05,Bishan,134.2
+2024-08-05,Bukit Batok,84.4
+2024-08-05,Bukit Merah,173.0
+2024-08-05,Bukit Panjang,142.2
+2024-08-05,Clementi,104.4
+2024-08-05,Geylang,140.0
+2024-08-05,Hougang,123.4
+2024-08-05,Jurong East,96.8
+2024-08-05,Jurong West,104.3
+2024-08-05,Kallang,119.9
+2024-08-05,Marine Parade,114.0
+2024-08-05,Pasir Ris,112.0
+2024-08-05,Punggol,65.2
+2024-08-05,Queenstown,92.1
+2024-08-05,Sengkang,104.4
+2024-08-05,Serangoon,120.3
+2024-08-05,Tampines,153.3
+2024-08-05,Toa Payoh,102.0
+2024-08-05,Woodlands,126.2
+2024-08-05,Yishun,158.4
+2024-08-05,Choa Chu Kang,155.8
+2024-08-05,Sembawang,120.5
+2024-08-12,Ang Mo Kio,168.3
+2024-08-12,Bedok,177.6
+2024-08-12,Bishan,188.7
+2024-08-12,Bukit Batok,125.4
+2024-08-12,Bukit Merah,183.6
+2024-08-12,Bukit Panjang,159.5
+2024-08-12,Clementi,196.0
+2024-08-12,Geylang,181.6
+2024-08-12,Hougang,148.7
+2024-08-12,Jurong East,164.2
+2024-08-12,Jurong West,200.2
+2024-08-12,Kallang,167.7
+2024-08-12,Marine Parade,126.6
+2024-08-12,Pasir Ris,173.2
+2024-08-12,Punggol,134.9
+2024-08-12,Queenstown,133.3
+2024-08-12,Sengkang,126.2
+2024-08-12,Serangoon,204.9
+2024-08-12,Tampines,165.5
+2024-08-12,Toa Payoh,173.9
+2024-08-12,Woodlands,161.4
+2024-08-12,Yishun,200.2
+2024-08-12,Choa Chu Kang,152.1
+2024-08-12,Sembawang,155.0
+2024-08-19,Ang Mo Kio,103.5
+2024-08-19,Bedok,91.5
+2024-08-19,Bishan,57.0
+2024-08-19,Bukit Batok,95.1
+2024-08-19,Bukit Merah,101.8
+2024-08-19,Bukit Panjang,115.9
+2024-08-19,Clementi,83.5
+2024-08-19,Geylang,111.1
+2024-08-19,Hougang,84.8
+2024-08-19,Jurong East,107.5
+2024-08-19,Jurong West,100.4
+2024-08-19,Kallang,86.3
+2024-08-19,Marine Parade,117.6
+2024-08-19,Pasir Ris,99.2
+2024-08-19,Punggol,83.6
+2024-08-19,Queenstown,55.1
+2024-08-19,Sengkang,53.1
+2024-08-19,Serangoon,96.6
+2024-08-19,Tampines,87.7
+2024-08-19,Toa Payoh,84.4
+2024-08-19,Woodlands,89.4
+2024-08-19,Yishun,127.6
+2024-08-19,Choa Chu Kang,96.2
+2024-08-19,Sembawang,73.0
+2024-08-26,Ang Mo Kio,74.2
+2024-08-26,Bedok,82.0
+2024-08-26,Bishan,85.6
+2024-08-26,Bukit Batok,65.6
+2024-08-26,Bukit Merah,89.6
+2024-08-26,Bukit Panjang,88.8
+2024-08-26,Clementi,83.2
+2024-08-26,Geylang,42.4
+2024-08-26,Hougang,30.8
+2024-08-26,Jurong East,76.8
+2024-08-26,Jurong West,89.3
+2024-08-26,Kallang,95.3
+2024-08-26,Marine Parade,60.3
+2024-08-26,Pasir Ris,84.7
+2024-08-26,Punggol,77.3
+2024-08-26,Queenstown,68.9
+2024-08-26,Sengkang,102.1
+2024-08-26,Serangoon,97.7
+2024-08-26,Tampines,98.9
+2024-08-26,Toa Payoh,101.7
+2024-08-26,Woodlands,131.8
+2024-08-26,Yishun,111.4
+2024-08-26,Choa Chu Kang,75.6
+2024-08-26,Sembawang,115.9
+2024-09-02,Ang Mo Kio,120.5
+2024-09-02,Bedok,105.5
+2024-09-02,Bishan,120.1
+2024-09-02,Bukit Batok,73.8
+2024-09-02,Bukit Merah,110.2
+2024-09-02,Bukit Panjang,87.9
+2024-09-02,Clementi,115.7
+2024-09-02,Geylang,72.6
+2024-09-02,Hougang,120.3
+2024-09-02,Jurong East,131.5
+2024-09-02,Jurong West,109.8
+2024-09-02,Kallang,61.6
+2024-09-02,Marine Parade,85.6
+2024-09-02,Pasir Ris,103.6
+2024-09-02,Punggol,72.7
+2024-09-02,Queenstown,93.5
+2024-09-02,Sengkang,132.2
+2024-09-02,Serangoon,130.2
+2024-09-02,Tampines,90.8
+2024-09-02,Toa Payoh,92.6
+2024-09-02,Woodlands,104.9
+2024-09-02,Yishun,119.2
+2024-09-02,Choa Chu Kang,115.9
+2024-09-02,Sembawang,112.8
+2024-09-09,Ang Mo Kio,175.0
+2024-09-09,Bedok,230.6
+2024-09-09,Bishan,179.7
+2024-09-09,Bukit Batok,131.5
+2024-09-09,Bukit Merah,216.7
+2024-09-09,Bukit Panjang,181.6
+2024-09-09,Clementi,149.6
+2024-09-09,Geylang,202.3
+2024-09-09,Hougang,130.8
+2024-09-09,Jurong East,138.2
+2024-09-09,Jurong West,180.2
+2024-09-09,Kallang,210.1
+2024-09-09,Marine Parade,143.0
+2024-09-09,Pasir Ris,206.0
+2024-09-09,Punggol,178.1
+2024-09-09,Queenstown,177.9
+2024-09-09,Sengkang,175.4
+2024-09-09,Serangoon,199.6
+2024-09-09,Tampines,184.5
+2024-09-09,Toa Payoh,199.4
+2024-09-09,Woodlands,179.9
+2024-09-09,Yishun,183.5
+2024-09-09,Choa Chu Kang,131.7
+2024-09-09,Sembawang,227.0
+2024-09-16,Ang Mo Kio,162.5
+2024-09-16,Bedok,191.7
+2024-09-16,Bishan,165.3
+2024-09-16,Bukit Batok,117.8
+2024-09-16,Bukit Merah,181.1
+2024-09-16,Bukit Panjang,210.2
+2024-09-16,Clementi,106.2
+2024-09-16,Geylang,149.4
+2024-09-16,Hougang,174.4
+2024-09-16,Jurong East,191.4
+2024-09-16,Jurong West,170.0
+2024-09-16,Kallang,144.1
+2024-09-16,Marine Parade,179.9
+2024-09-16,Pasir Ris,187.7
+2024-09-16,Punggol,151.6
+2024-09-16,Queenstown,138.0
+2024-09-16,Sengkang,150.0
+2024-09-16,Serangoon,170.5
+2024-09-16,Tampines,169.0
+2024-09-16,Toa Payoh,214.1
+2024-09-16,Woodlands,183.2
+2024-09-16,Yishun,161.9
+2024-09-16,Choa Chu Kang,185.0
+2024-09-16,Sembawang,189.7
+2024-09-23,Ang Mo Kio,205.5
+2024-09-23,Bedok,233.3
+2024-09-23,Bishan,197.2
+2024-09-23,Bukit Batok,151.5
+2024-09-23,Bukit Merah,250.7
+2024-09-23,Bukit Panjang,166.2
+2024-09-23,Clementi,128.7
+2024-09-23,Geylang,200.0
+2024-09-23,Hougang,167.5
+2024-09-23,Jurong East,174.2
+2024-09-23,Jurong West,219.4
+2024-09-23,Kallang,177.6
+2024-09-23,Marine Parade,161.3
+2024-09-23,Pasir Ris,173.5
+2024-09-23,Punggol,142.1
+2024-09-23,Queenstown,177.6
+2024-09-23,Sengkang,192.1
+2024-09-23,Serangoon,243.8
+2024-09-23,Tampines,199.8
+2024-09-23,Toa Payoh,164.3
+2024-09-23,Woodlands,191.2
+2024-09-23,Yishun,213.7
+2024-09-23,Choa Chu Kang,201.3
+2024-09-23,Sembawang,216.4
+2024-09-30,Ang Mo Kio,186.3
+2024-09-30,Bedok,194.4
+2024-09-30,Bishan,193.5
+2024-09-30,Bukit Batok,153.2
+2024-09-30,Bukit Merah,170.3
+2024-09-30,Bukit Panjang,184.2
+2024-09-30,Clementi,134.4
+2024-09-30,Geylang,167.4
+2024-09-30,Hougang,136.4
+2024-09-30,Jurong East,141.7
+2024-09-30,Jurong West,224.4
+2024-09-30,Kallang,205.1
+2024-09-30,Marine Parade,184.3
+2024-09-30,Pasir Ris,140.3
+2024-09-30,Punggol,147.3
+2024-09-30,Queenstown,137.2
+2024-09-30,Sengkang,145.7
+2024-09-30,Serangoon,165.3
+2024-09-30,Tampines,196.4
+2024-09-30,Toa Payoh,187.7
+2024-09-30,Woodlands,196.4
+2024-09-30,Yishun,206.0
+2024-09-30,Choa Chu Kang,212.6
+2024-09-30,Sembawang,164.4
+2024-10-07,Ang Mo Kio,210.7
+2024-10-07,Bedok,180.0
+2024-10-07,Bishan,208.7
+2024-10-07,Bukit Batok,148.9
+2024-10-07,Bukit Merah,199.2
+2024-10-07,Bukit Panjang,195.8
+2024-10-07,Clementi,148.5
+2024-10-07,Geylang,181.2
+2024-10-07,Hougang,159.8
+2024-10-07,Jurong East,193.6
+2024-10-07,Jurong West,167.7
+2024-10-07,Kallang,201.9
+2024-10-07,Marine Parade,168.5
+2024-10-07,Pasir Ris,188.1
+2024-10-07,Punggol,136.5
+2024-10-07,Queenstown,136.7
+2024-10-07,Sengkang,178.2
+2024-10-07,Serangoon,195.9
+2024-10-07,Tampines,199.7
+2024-10-07,Toa Payoh,190.7
+2024-10-07,Woodlands,198.4
+2024-10-07,Yishun,224.0
+2024-10-07,Choa Chu Kang,172.3
+2024-10-07,Sembawang,211.2
+2024-10-14,Ang Mo Kio,153.5
+2024-10-14,Bedok,131.3
+2024-10-14,Bishan,98.6
+2024-10-14,Bukit Batok,107.7
+2024-10-14,Bukit Merah,92.3
+2024-10-14,Bukit Panjang,121.3
+2024-10-14,Clementi,139.8
+2024-10-14,Geylang,102.5
+2024-10-14,Hougang,86.3
+2024-10-14,Jurong East,125.2
+2024-10-14,Jurong West,91.8
+2024-10-14,Kallang,107.7
+2024-10-14,Marine Parade,110.3
+2024-10-14,Pasir Ris,98.4
+2024-10-14,Punggol,93.6
+2024-10-14,Queenstown,124.8
+2024-10-14,Sengkang,116.0
+2024-10-14,Serangoon,129.1
+2024-10-14,Tampines,108.9
+2024-10-14,Toa Payoh,139.3
+2024-10-14,Woodlands,115.5
+2024-10-14,Yishun,139.9
+2024-10-14,Choa Chu Kang,102.3
+2024-10-14,Sembawang,127.1
+2024-10-21,Ang Mo Kio,171.5
+2024-10-21,Bedok,146.1
+2024-10-21,Bishan,192.4
+2024-10-21,Bukit Batok,126.0
+2024-10-21,Bukit Merah,173.0
+2024-10-21,Bukit Panjang,179.0
+2024-10-21,Clementi,128.0
+2024-10-21,Geylang,174.7
+2024-10-21,Hougang,147.6
+2024-10-21,Jurong East,153.3
+2024-10-21,Jurong West,145.2
+2024-10-21,Kallang,189.3
+2024-10-21,Marine Parade,179.0
+2024-10-21,Pasir Ris,152.2
+2024-10-21,Punggol,113.7
+2024-10-21,Queenstown,151.0
+2024-10-21,Sengkang,167.1
+2024-10-21,Serangoon,157.1
+2024-10-21,Tampines,155.8
+2024-10-21,Toa Payoh,187.3
+2024-10-21,Woodlands,185.6
+2024-10-21,Yishun,194.4
+2024-10-21,Choa Chu Kang,169.9
+2024-10-21,Sembawang,170.4
+2024-10-28,Ang Mo Kio,150.3
+2024-10-28,Bedok,130.9
+2024-10-28,Bishan,103.4
+2024-10-28,Bukit Batok,117.2
+2024-10-28,Bukit Merah,130.7
+2024-10-28,Bukit Panjang,121.9
+2024-10-28,Clementi,103.4
+2024-10-28,Geylang,118.6
+2024-10-28,Hougang,126.9
+2024-10-28,Jurong East,108.3
+2024-10-28,Jurong West,100.4
+2024-10-28,Kallang,112.6
+2024-10-28,Marine Parade,102.0
+2024-10-28,Pasir Ris,135.8
+2024-10-28,Punggol,110.5
+2024-10-28,Queenstown,93.0
+2024-10-28,Sengkang,157.4
+2024-10-28,Serangoon,129.2
+2024-10-28,Tampines,141.3
+2024-10-28,Toa Payoh,129.0
+2024-10-28,Woodlands,128.8
+2024-10-28,Yishun,147.6
+2024-10-28,Choa Chu Kang,136.7
+2024-10-28,Sembawang,152.0
+2024-11-04,Ang Mo Kio,236.2
+2024-11-04,Bedok,212.5
+2024-11-04,Bishan,218.4
+2024-11-04,Bukit Batok,159.3
+2024-11-04,Bukit Merah,234.5
+2024-11-04,Bukit Panjang,216.4
+2024-11-04,Clementi,152.2
+2024-11-04,Geylang,230.5
+2024-11-04,Hougang,201.9
+2024-11-04,Jurong East,179.6
+2024-11-04,Jurong West,196.3
+2024-11-04,Kallang,206.6
+2024-11-04,Marine Parade,174.3
+2024-11-04,Pasir Ris,191.0
+2024-11-04,Punggol,172.6
+2024-11-04,Queenstown,198.7
+2024-11-04,Sengkang,162.8
+2024-11-04,Serangoon,193.7
+2024-11-04,Tampines,150.0
+2024-11-04,Toa Payoh,251.9
+2024-11-04,Woodlands,208.8
+2024-11-04,Yishun,252.0
+2024-11-04,Choa Chu Kang,175.6
+2024-11-04,Sembawang,231.5
+2024-11-11,Ang Mo Kio,329.5
+2024-11-11,Bedok,289.3
+2024-11-11,Bishan,344.1
+2024-11-11,Bukit Batok,292.8
+2024-11-11,Bukit Merah,306.3
+2024-11-11,Bukit Panjang,273.6
+2024-11-11,Clementi,249.3
+2024-11-11,Geylang,323.9
+2024-11-11,Hougang,274.6
+2024-11-11,Jurong East,303.9
+2024-11-11,Jurong West,291.3
+2024-11-11,Kallang,263.0
+2024-11-11,Marine Parade,270.0
+2024-11-11,Pasir Ris,269.0
+2024-11-11,Punggol,212.4
+2024-11-11,Queenstown,285.4
+2024-11-11,Sengkang,292.5
+2024-11-11,Serangoon,315.8
+2024-11-11,Tampines,288.3
+2024-11-11,Toa Payoh,335.9
+2024-11-11,Woodlands,295.9
+2024-11-11,Yishun,309.1
+2024-11-11,Choa Chu Kang,274.2
+2024-11-11,Sembawang,346.5
+2024-11-18,Ang Mo Kio,191.2
+2024-11-18,Bedok,158.9
+2024-11-18,Bishan,180.8
+2024-11-18,Bukit Batok,161.0
+2024-11-18,Bukit Merah,192.3
+2024-11-18,Bukit Panjang,153.9
+2024-11-18,Clementi,123.2
+2024-11-18,Geylang,146.7
+2024-11-18,Hougang,178.7
+2024-11-18,Jurong East,175.8
+2024-11-18,Jurong West,176.0
+2024-11-18,Kallang,165.7
+2024-11-18,Marine Parade,131.4
+2024-11-18,Pasir Ris,183.2
+2024-11-18,Punggol,180.9
+2024-11-18,Queenstown,147.5
+2024-11-18,Sengkang,179.1
+2024-11-18,Serangoon,180.4
+2024-11-18,Tampines,163.8
+2024-11-18,Toa Payoh,221.7
+2024-11-18,Woodlands,171.2
+2024-11-18,Yishun,195.8
+2024-11-18,Choa Chu Kang,168.0
+2024-11-18,Sembawang,157.4
+2024-11-25,Ang Mo Kio,315.2
+2024-11-25,Bedok,318.9
+2024-11-25,Bishan,339.0
+2024-11-25,Bukit Batok,248.9
+2024-11-25,Bukit Merah,360.7
+2024-11-25,Bukit Panjang,300.8
+2024-11-25,Clementi,247.3
+2024-11-25,Geylang,298.6
+2024-11-25,Hougang,230.5
+2024-11-25,Jurong East,293.3
+2024-11-25,Jurong West,280.1
+2024-11-25,Kallang,286.2
+2024-11-25,Marine Parade,212.5
+2024-11-25,Pasir Ris,285.1
+2024-11-25,Punggol,251.0
+2024-11-25,Queenstown,277.3
+2024-11-25,Sengkang,257.1
+2024-11-25,Serangoon,296.3
+2024-11-25,Tampines,308.1
+2024-11-25,Toa Payoh,329.6
+2024-11-25,Woodlands,311.1
+2024-11-25,Yishun,320.0
+2024-11-25,Choa Chu Kang,293.5
+2024-11-25,Sembawang,363.7
+2024-12-02,Ang Mo Kio,177.0
+2024-12-02,Bedok,162.9
+2024-12-02,Bishan,207.6
+2024-12-02,Bukit Batok,142.0
+2024-12-02,Bukit Merah,171.5
+2024-12-02,Bukit Panjang,150.3
+2024-12-02,Clementi,125.2
+2024-12-02,Geylang,140.5
+2024-12-02,Hougang,162.5
+2024-12-02,Jurong East,108.9
+2024-12-02,Jurong West,181.1
+2024-12-02,Kallang,150.8
+2024-12-02,Marine Parade,127.2
+2024-12-02,Pasir Ris,137.3
+2024-12-02,Punggol,166.3
+2024-12-02,Queenstown,153.9
+2024-12-02,Sengkang,166.2
+2024-12-02,Serangoon,199.0
+2024-12-02,Tampines,164.9
+2024-12-02,Toa Payoh,160.4
+2024-12-02,Woodlands,160.5
+2024-12-02,Yishun,167.9
+2024-12-02,Choa Chu Kang,146.8
+2024-12-02,Sembawang,180.8
+2024-12-09,Ang Mo Kio,206.4
+2024-12-09,Bedok,184.8
+2024-12-09,Bishan,200.3
+2024-12-09,Bukit Batok,142.6
+2024-12-09,Bukit Merah,209.9
+2024-12-09,Bukit Panjang,204.1
+2024-12-09,Clementi,167.3
+2024-12-09,Geylang,204.3
+2024-12-09,Hougang,156.7
+2024-12-09,Jurong East,205.0
+2024-12-09,Jurong West,179.0
+2024-12-09,Kallang,208.5
+2024-12-09,Marine Parade,186.1
+2024-12-09,Pasir Ris,193.1
+2024-12-09,Punggol,158.4
+2024-12-09,Queenstown,171.0
+2024-12-09,Sengkang,198.4
+2024-12-09,Serangoon,176.0
+2024-12-09,Tampines,171.7
+2024-12-09,Toa Payoh,209.9
+2024-12-09,Woodlands,219.7
+2024-12-09,Yishun,223.5
+2024-12-09,Choa Chu Kang,166.0
+2024-12-09,Sembawang,209.7
+2024-12-16,Ang Mo Kio,185.4
+2024-12-16,Bedok,155.4
+2024-12-16,Bishan,219.3
+2024-12-16,Bukit Batok,189.6
+2024-12-16,Bukit Merah,184.9
+2024-12-16,Bukit Panjang,214.8
+2024-12-16,Clementi,148.2
+2024-12-16,Geylang,199.2
+2024-12-16,Hougang,188.0
+2024-12-16,Jurong East,167.6
+2024-12-16,Jurong West,183.7
+2024-12-16,Kallang,202.7
+2024-12-16,Marine Parade,130.4
+2024-12-16,Pasir Ris,195.3
+2024-12-16,Punggol,155.4
+2024-12-16,Queenstown,159.0
+2024-12-16,Sengkang,154.9
+2024-12-16,Serangoon,164.4
+2024-12-16,Tampines,168.8
+2024-12-16,Toa Payoh,199.4
+2024-12-16,Woodlands,161.9
+2024-12-16,Yishun,201.9
+2024-12-16,Choa Chu Kang,183.6
+2024-12-16,Sembawang,198.6
+2024-12-23,Ang Mo Kio,201.6
+2024-12-23,Bedok,203.8
+2024-12-23,Bishan,192.7
+2024-12-23,Bukit Batok,171.5
+2024-12-23,Bukit Merah,170.8
+2024-12-23,Bukit Panjang,184.4
+2024-12-23,Clementi,131.4
+2024-12-23,Geylang,153.4
+2024-12-23,Hougang,140.3
+2024-12-23,Jurong East,189.4
+2024-12-23,Jurong West,203.7
+2024-12-23,Kallang,186.1
+2024-12-23,Marine Parade,117.5
+2024-12-23,Pasir Ris,163.4
+2024-12-23,Punggol,154.2
+2024-12-23,Queenstown,169.1
+2024-12-23,Sengkang,125.2
+2024-12-23,Serangoon,168.6
+2024-12-23,Tampines,173.0
+2024-12-23,Toa Payoh,209.4
+2024-12-23,Woodlands,133.8
+2024-12-23,Yishun,193.7
+2024-12-23,Choa Chu Kang,171.9
+2024-12-23,Sembawang,213.9
